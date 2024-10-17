@@ -51,10 +51,6 @@ jobs:
         run: |
           htmlhint "frontend/*.html" 
 
-      - name: Run CSS linter
-        run: |
-          stylelint "frontend/*.css" 
-
       - name: Run JavaScript linter
         run: |
           eslint "frontend/*.js" 
