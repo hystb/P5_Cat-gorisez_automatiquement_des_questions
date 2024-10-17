@@ -1,7 +1,8 @@
-import mlflow
 from flask import Flask, jsonify, request
+# import mlflow
 
 app = Flask(__name__)
+
 
 @app.route('/api/v1/predict', methods=['POST'])
 def predict():
@@ -11,8 +12,9 @@ def predict():
 
     # prediction = model.predict([data['input']])
     prediction = ["python", "machine-learning", "data-science"]
-    
+
     return jsonify({'tags': prediction})
+
 
 @app.route('/api/v1/validate', methods=['POST'])
 def validate():
@@ -22,6 +24,7 @@ def validate():
     print(f'Tags validés: {tags}')
 
     return jsonify({'status': 'success', 'tags': tags})
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5001, debug=True)
