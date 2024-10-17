@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag Suggestion Interface</title>
+    <link rel="stylesheet" href="http://localhost/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Tag Suggestion Interface</h1>
+        
+        <textarea id="question" placeholder="Enter your question here..."></textarea>
+        <button onclick="getTagSuggestions()">Get Tag Suggestions</button>
+
+        <div id="tag-suggestions" class="tags-container"></div>
+        
+        <h2>Selected Tags:</h2>
+        <div id="selected-tags" class="selected-tags"></div>
+
+        <button onclick="validateTags()">Validate Selected Tags</button>
+    </div>
+    
+    <script src="http://localhost/script.js"></script>
+</body>
+</html>
+
