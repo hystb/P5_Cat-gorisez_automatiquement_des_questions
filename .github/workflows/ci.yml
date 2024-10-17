@@ -36,7 +36,7 @@ jobs:
       - name: Run Unit Tests
         run: |
           pip install pytest
-          pytest
+          pytest .github/tests/
 
   # Job 2: Build, Test, and Push Docker Compose Services
   docker_compose:
