@@ -38,9 +38,9 @@ jobs:
           pip install pytest
           pytest .github/tests/ 
 
-  # Job 2: Build, Test, and Push Docker Compose Services
+  # Job 2: Build, Test Docker Compose Services
   docker_compose:
-    name: Build, Test, and Push Docker Compose Services
+    name: Build, Test Docker Compose Services
     runs-on: ubuntu-latest
     needs: test
 
@@ -96,8 +96,7 @@ jobs:
         run: |
           IMAGE_TAG=${{ github.sha }}  # Using GitHub commit SHA for image tag
           
-          # Get all running services from `docker compose ps`
-          services=$(docker compose -f docker-compose.yml config --services)
+          services= $(docker images --format "{{.Repository}}")
           
           for service in $services; do
             # Tag the images with both commit SHA and latest
