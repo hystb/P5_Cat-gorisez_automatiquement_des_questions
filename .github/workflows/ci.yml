@@ -96,14 +96,14 @@ jobs:
         run: |
           IMAGE_TAG=${{ github.sha }}  # Using GitHub commit SHA for image tag
           
-          services= $(docker images --format "{{.Repository}}")
+          services=$(docker images --format "{{.Repository}}")
           
           for service in $services; do
             # Tag the images with both commit SHA and latest
-            docker tag $service ***/$service:${IMAGE_TAG}
-            docker tag $service ***/$service:latest
+            docker tag $service ${{ secrets.DOCKER_USERNAME }}/$service:${IMAGE_TAG}
+            docker tag $service ${{ secrets.DOCKER_USERNAME }}/$service:latest
             
             # Push both tags to DockerHub
-            docker push ***/$service:${IMAGE_TAG}
-            docker push ***/$service:latest
+            docker push ${{ secrets.DOCKER_USERNAME }}/$service:${IMAGE_TAG}
+            docker push ${{ secrets.DOCKER_USERNAME }}/$service:latest
           done
