@@ -96,7 +96,7 @@ jobs:
         run: |
           IMAGE_TAG=${{ github.sha }}  # Using GitHub commit SHA for image tag
           
-          services=$(docker images --format "{{.Repository}}")
+          services=$(docker images --format "{{.Repository}}" | grep -E "p5_cat-gorisez_automatiquement_des_questions-mlflow|p5_cat-gorisez_automatiquement_des_questions-flask_app")
           
           for service in $services; do
             # Tag the images with both commit SHA and latest
