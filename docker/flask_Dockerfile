@@ -1,0 +1,10 @@
+FROM python:3.11
+
+RUN apt-get update && apt-get install -y git libpq-dev gcc curl make && apt-get clean
+RUN curl https://pyenv.run | bash
+ENV PATH="/root/.pyenv/bin:/root/.pyenv/shims:/root/.pyenv/versions:${PATH}"
+COPY ./requirements_flask.txt /requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+EXPOSE 5001
+
+CMD ["python", "flask/app.py"]

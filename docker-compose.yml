@@ -1,0 +1,35 @@
+services:
+  flask_app:
+    volumes:
+      - ./flask:/flask
+    build:
+      context: ./docker  
+      dockerfile: flask_Dockerfile
+    depends_on:
+      - mlflow
+    ports:
+      - "5001:5001"
+
+  mlflow:
+    restart: always
+    build:
+      context: ./docker
+      dockerfile: mlflow_Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./mlflow:/data 
+      - ./mlruns:/mlruns
+  
+  nginx:
+    image: nginx:1.19
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./frontend:/usr/share/nginx/frontend
+    depends_on:
+      - flask_app
+      - mlflow
+
+
