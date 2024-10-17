@@ -89,7 +89,7 @@ jobs:
       # Step 2: Build and run services using `docker compose`
       - name: Build and run docker-compose services
         run: |
-          docker compose -f docker-compose.yml up --build -d
+          docker compose -f docker-compose.yml build
 
       # Step 3: Detect running services from docker ps and tag/push images dynamically
       - name: Detect and Push Docker Images
@@ -97,7 +97,7 @@ jobs:
           IMAGE_TAG=${{ github.sha }}  # Using GitHub commit SHA for image tag
           
           # Get all running services from `docker compose ps`
-          services=$(docker compose -f docker-compose.yml ps --services)
+          services=$(docker compose -f docker-compose.yml config --services)
           
           for service in $services; do
             # Tag the images with both commit SHA and latest
