@@ -3,3 +3,4 @@ mlruns/
 *.txt
 !requirements_flask.txt
 !requirements_mlflow.txt
+*.pkl
