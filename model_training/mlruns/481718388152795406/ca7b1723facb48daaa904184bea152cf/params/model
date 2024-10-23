@@ -1,0 +1,1 @@
+SGDClassifier(alpha=0.1, penalty=elasticnet, loss=hinge)

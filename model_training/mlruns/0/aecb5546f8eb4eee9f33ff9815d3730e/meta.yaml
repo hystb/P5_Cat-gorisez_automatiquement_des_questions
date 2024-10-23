@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/aecb5546f8eb4eee9f33ff9815d3730e/artifacts
+end_time: 1729044440934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aecb5546f8eb4eee9f33ff9815d3730e
+run_name: sincere-calf-248
+run_uuid: aecb5546f8eb4eee9f33ff9815d3730e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729044437338
+status: 3
+tags: []
+user_id: milan

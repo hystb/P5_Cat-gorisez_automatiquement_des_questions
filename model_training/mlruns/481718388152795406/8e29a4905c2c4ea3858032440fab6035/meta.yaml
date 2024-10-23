@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/8e29a4905c2c4ea3858032440fab6035/artifacts
+end_time: 1729518579794
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 8e29a4905c2c4ea3858032440fab6035
+run_name: trusting-sponge-303
+run_uuid: 8e29a4905c2c4ea3858032440fab6035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518576905
+status: 3
+tags: []
+user_id: milan

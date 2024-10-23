@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/b97a79aca1aa4e7fb8d2231e24018e41/artifacts
+end_time: 1729229441973
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: b97a79aca1aa4e7fb8d2231e24018e41
+run_name: funny-sheep-384
+run_uuid: b97a79aca1aa4e7fb8d2231e24018e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229441913
+status: 3
+tags: []
+user_id: milan

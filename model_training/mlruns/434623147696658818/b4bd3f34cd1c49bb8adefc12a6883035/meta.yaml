@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/b4bd3f34cd1c49bb8adefc12a6883035/artifacts
+end_time: 1729230665347
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: b4bd3f34cd1c49bb8adefc12a6883035
+run_name: rogue-rat-969
+run_uuid: b4bd3f34cd1c49bb8adefc12a6883035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230662627
+status: 3
+tags: []
+user_id: milan

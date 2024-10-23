@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/1450eda40d73402fb122dd14dcb3c34a/artifacts
+deleted_time: 1729191200045
+end_time: 1729028219680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1450eda40d73402fb122dd14dcb3c34a
+run_name: traveling-skink-347
+run_uuid: 1450eda40d73402fb122dd14dcb3c34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729028219504
+status: 4
+tags: []
+user_id: milan

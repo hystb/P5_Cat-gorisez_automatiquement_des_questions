@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/fb58e8cdbc8d48cda3077c2fe4c76387/artifacts
+end_time: 1729196805104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb58e8cdbc8d48cda3077c2fe4c76387
+run_name: orderly-sheep-848
+run_uuid: fb58e8cdbc8d48cda3077c2fe4c76387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729196805019
+status: 3
+tags: []
+user_id: milan

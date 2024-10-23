@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/5f255c4024184467a7f6953f11385f4e/artifacts
+end_time: 1729228345273
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 5f255c4024184467a7f6953f11385f4e
+run_name: powerful-gull-817
+run_uuid: 5f255c4024184467a7f6953f11385f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228342532
+status: 3
+tags: []
+user_id: milan

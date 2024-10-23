@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/00ef3e03c1ce4e0fb6f069426bf895ee/artifacts
+end_time: 1729230283630
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 00ef3e03c1ce4e0fb6f069426bf895ee
+run_name: orderly-snipe-138
+run_uuid: 00ef3e03c1ce4e0fb6f069426bf895ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230280987
+status: 3
+tags: []
+user_id: milan

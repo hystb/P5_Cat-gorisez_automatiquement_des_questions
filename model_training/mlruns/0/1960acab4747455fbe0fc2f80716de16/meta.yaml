@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/1960acab4747455fbe0fc2f80716de16/artifacts
+end_time: 1729200080285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1960acab4747455fbe0fc2f80716de16
+run_name: nebulous-finch-909
+run_uuid: 1960acab4747455fbe0fc2f80716de16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729200080230
+status: 3
+tags: []
+user_id: milan

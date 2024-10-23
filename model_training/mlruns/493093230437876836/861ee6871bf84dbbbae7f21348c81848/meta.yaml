@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/861ee6871bf84dbbbae7f21348c81848/artifacts
+end_time: 1729228741241
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 861ee6871bf84dbbbae7f21348c81848
+run_name: intelligent-crow-434
+run_uuid: 861ee6871bf84dbbbae7f21348c81848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228738410
+status: 3
+tags: []
+user_id: milan

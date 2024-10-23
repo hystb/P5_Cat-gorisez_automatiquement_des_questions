@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/60782ac6d0904f9aa2bf95963af175a6/artifacts
+end_time: 1729559398401
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 60782ac6d0904f9aa2bf95963af175a6
+run_name: likeable-crane-489
+run_uuid: 60782ac6d0904f9aa2bf95963af175a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729559395185
+status: 3
+tags: []
+user_id: milan

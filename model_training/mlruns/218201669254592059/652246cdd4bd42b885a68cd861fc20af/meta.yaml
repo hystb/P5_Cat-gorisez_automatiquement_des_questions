@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/652246cdd4bd42b885a68cd861fc20af/artifacts
+end_time: 1729560817051
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 652246cdd4bd42b885a68cd861fc20af
+run_name: industrious-goat-503
+run_uuid: 652246cdd4bd42b885a68cd861fc20af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729560816992
+status: 3
+tags: []
+user_id: milan

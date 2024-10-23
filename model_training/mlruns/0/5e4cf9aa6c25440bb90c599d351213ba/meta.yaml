@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/5e4cf9aa6c25440bb90c599d351213ba/artifacts
+deleted_time: 1729191200043
+end_time: 1729027817640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5e4cf9aa6c25440bb90c599d351213ba
+run_name: silent-koi-576
+run_uuid: 5e4cf9aa6c25440bb90c599d351213ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729027814977
+status: 3
+tags: []
+user_id: milan

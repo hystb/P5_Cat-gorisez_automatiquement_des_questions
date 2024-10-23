@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/94743d6a13f545deb529f7339c35be11/artifacts
+end_time: 1729229872516
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 94743d6a13f545deb529f7339c35be11
+run_name: auspicious-frog-992
+run_uuid: 94743d6a13f545deb529f7339c35be11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229872453
+status: 3
+tags: []
+user_id: milan

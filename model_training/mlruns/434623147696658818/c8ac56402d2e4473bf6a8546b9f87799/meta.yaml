@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/c8ac56402d2e4473bf6a8546b9f87799/artifacts
+end_time: 1729229878096
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: c8ac56402d2e4473bf6a8546b9f87799
+run_name: welcoming-cod-513
+run_uuid: c8ac56402d2e4473bf6a8546b9f87799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229875376
+status: 3
+tags: []
+user_id: milan

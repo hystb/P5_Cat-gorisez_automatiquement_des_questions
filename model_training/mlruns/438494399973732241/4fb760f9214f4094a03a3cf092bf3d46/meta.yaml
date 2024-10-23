@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/4fb760f9214f4094a03a3cf092bf3d46/artifacts
+end_time: 1729608848047
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: 4fb760f9214f4094a03a3cf092bf3d46
+run_name: whimsical-goat-168
+run_uuid: 4fb760f9214f4094a03a3cf092bf3d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729608847967
+status: 3
+tags: []
+user_id: milan

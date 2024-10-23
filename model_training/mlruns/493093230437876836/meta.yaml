@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836
+creation_time: 1729226068862
+experiment_id: '493093230437876836'
+last_update_time: 1729226068862
+lifecycle_stage: active
+name: sgd_classifier_with_different_hyperparameters

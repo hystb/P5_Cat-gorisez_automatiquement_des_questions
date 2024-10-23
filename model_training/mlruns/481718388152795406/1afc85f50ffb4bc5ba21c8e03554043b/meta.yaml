@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/1afc85f50ffb4bc5ba21c8e03554043b/artifacts
+end_time: 1729518765143
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 1afc85f50ffb4bc5ba21c8e03554043b
+run_name: smiling-pig-18
+run_uuid: 1afc85f50ffb4bc5ba21c8e03554043b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518765070
+status: 3
+tags: []
+user_id: milan

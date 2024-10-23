@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/d606a1223e984b068dec551b8a74dab1/artifacts
+deleted_time: 1729191200177
+end_time: 1729035097935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d606a1223e984b068dec551b8a74dab1
+run_name: stately-bug-436
+run_uuid: d606a1223e984b068dec551b8a74dab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729035094345
+status: 3
+tags: []
+user_id: milan

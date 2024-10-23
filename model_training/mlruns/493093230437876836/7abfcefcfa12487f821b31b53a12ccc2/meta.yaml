@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/7abfcefcfa12487f821b31b53a12ccc2/artifacts
+end_time: 1729228321115
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 7abfcefcfa12487f821b31b53a12ccc2
+run_name: auspicious-kite-228
+run_uuid: 7abfcefcfa12487f821b31b53a12ccc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228318341
+status: 3
+tags: []
+user_id: milan

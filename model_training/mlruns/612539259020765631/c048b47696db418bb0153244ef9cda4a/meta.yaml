@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/c048b47696db418bb0153244ef9cda4a/artifacts
+end_time: 1729472009011
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: c048b47696db418bb0153244ef9cda4a
+run_name: whimsical-flea-299
+run_uuid: c048b47696db418bb0153244ef9cda4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729472008908
+status: 3
+tags: []
+user_id: milan

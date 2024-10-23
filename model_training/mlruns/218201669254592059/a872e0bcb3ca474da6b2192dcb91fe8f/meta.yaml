@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/a872e0bcb3ca474da6b2192dcb91fe8f/artifacts
+end_time: 1729561132008
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: a872e0bcb3ca474da6b2192dcb91fe8f
+run_name: auspicious-koi-7
+run_uuid: a872e0bcb3ca474da6b2192dcb91fe8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561128673
+status: 3
+tags: []
+user_id: milan

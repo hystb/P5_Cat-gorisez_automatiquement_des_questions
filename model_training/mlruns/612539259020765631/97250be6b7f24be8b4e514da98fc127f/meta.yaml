@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/97250be6b7f24be8b4e514da98fc127f/artifacts
+end_time: 1729456762865
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 97250be6b7f24be8b4e514da98fc127f
+run_name: bright-stork-661
+run_uuid: 97250be6b7f24be8b4e514da98fc127f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729456762774
+status: 3
+tags: []
+user_id: milan

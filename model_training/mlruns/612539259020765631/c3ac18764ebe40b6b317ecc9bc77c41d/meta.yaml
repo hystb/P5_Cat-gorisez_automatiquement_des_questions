@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/c3ac18764ebe40b6b317ecc9bc77c41d/artifacts
+end_time: 1729366209767
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: c3ac18764ebe40b6b317ecc9bc77c41d
+run_name: monumental-goat-628
+run_uuid: c3ac18764ebe40b6b317ecc9bc77c41d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729366209697
+status: 3
+tags: []
+user_id: milan

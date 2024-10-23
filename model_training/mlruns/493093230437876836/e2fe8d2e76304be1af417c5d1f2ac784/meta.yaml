@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/e2fe8d2e76304be1af417c5d1f2ac784/artifacts
+end_time: 1729228974350
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: e2fe8d2e76304be1af417c5d1f2ac784
+run_name: chill-horse-158
+run_uuid: e2fe8d2e76304be1af417c5d1f2ac784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228971591
+status: 3
+tags: []
+user_id: milan

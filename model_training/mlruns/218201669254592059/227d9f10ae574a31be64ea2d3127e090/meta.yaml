@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/227d9f10ae574a31be64ea2d3127e090/artifacts
+end_time: 1729560647786
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 227d9f10ae574a31be64ea2d3127e090
+run_name: kindly-squid-990
+run_uuid: 227d9f10ae574a31be64ea2d3127e090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729560647688
+status: 3
+tags: []
+user_id: milan

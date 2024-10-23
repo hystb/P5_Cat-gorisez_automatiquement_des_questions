@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/02a4021cc9d148c08f4a7c255e43e800/artifacts
+end_time: 1729428928618
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 02a4021cc9d148c08f4a7c255e43e800
+run_name: fortunate-wasp-848
+run_uuid: 02a4021cc9d148c08f4a7c255e43e800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729428928532
+status: 3
+tags: []
+user_id: milan

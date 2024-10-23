@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/c9ae5e38f55c4b978e39910c1ca130d0/artifacts
+end_time: 1729476215717
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: c9ae5e38f55c4b978e39910c1ca130d0
+run_name: rogue-seal-206
+run_uuid: c9ae5e38f55c4b978e39910c1ca130d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729476215613
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/17b204c5c1894dea862d9b21f6e333bc/artifacts
+end_time: 1729230541890
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 17b204c5c1894dea862d9b21f6e333bc
+run_name: indecisive-ape-545
+run_uuid: 17b204c5c1894dea862d9b21f6e333bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230541817
+status: 3
+tags: []
+user_id: milan

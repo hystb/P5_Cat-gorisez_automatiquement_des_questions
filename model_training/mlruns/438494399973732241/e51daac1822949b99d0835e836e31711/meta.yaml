@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/e51daac1822949b99d0835e836e31711/artifacts
+end_time: 1729607449348
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: e51daac1822949b99d0835e836e31711
+run_name: bright-frog-659
+run_uuid: e51daac1822949b99d0835e836e31711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729607449279
+status: 3
+tags: []
+user_id: milan

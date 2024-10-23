@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/fbbe84919b7f4295bb8da9d389e224af/artifacts
+end_time: 1729230548500
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: fbbe84919b7f4295bb8da9d389e224af
+run_name: abrasive-lynx-337
+run_uuid: fbbe84919b7f4295bb8da9d389e224af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230548441
+status: 3
+tags: []
+user_id: milan

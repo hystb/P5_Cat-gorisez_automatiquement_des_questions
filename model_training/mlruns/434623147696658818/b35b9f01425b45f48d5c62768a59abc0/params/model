@@ -1,0 +1,1 @@
+BernoulliNB(alpha=0.5, fit_prior=True)

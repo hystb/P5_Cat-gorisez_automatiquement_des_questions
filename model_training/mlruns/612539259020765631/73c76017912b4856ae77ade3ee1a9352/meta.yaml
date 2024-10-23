@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/73c76017912b4856ae77ade3ee1a9352/artifacts
+end_time: 1729377895810
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 73c76017912b4856ae77ade3ee1a9352
+run_name: calm-finch-404
+run_uuid: 73c76017912b4856ae77ade3ee1a9352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729377895734
+status: 3
+tags: []
+user_id: milan

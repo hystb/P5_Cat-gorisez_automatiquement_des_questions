@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/dc4e3b44f5064006b2951f7ba80236fd/artifacts
+end_time: 1729229886605
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: dc4e3b44f5064006b2951f7ba80236fd
+run_name: marvelous-skink-894
+run_uuid: dc4e3b44f5064006b2951f7ba80236fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229883976
+status: 3
+tags: []
+user_id: milan

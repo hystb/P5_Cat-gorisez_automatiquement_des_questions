@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/92723ff9320a4195a6676843caa449c7/artifacts
+end_time: 1729434184136
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 92723ff9320a4195a6676843caa449c7
+run_name: gentle-bear-617
+run_uuid: 92723ff9320a4195a6676843caa449c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729434184050
+status: 3
+tags: []
+user_id: milan

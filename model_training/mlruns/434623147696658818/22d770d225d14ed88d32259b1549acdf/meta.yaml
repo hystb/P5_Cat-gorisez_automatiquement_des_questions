@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/22d770d225d14ed88d32259b1549acdf/artifacts
+end_time: 1729230632492
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 22d770d225d14ed88d32259b1549acdf
+run_name: grandiose-squid-965
+run_uuid: 22d770d225d14ed88d32259b1549acdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230629800
+status: 3
+tags: []
+user_id: milan

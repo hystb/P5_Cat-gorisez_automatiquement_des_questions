@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/8f3b6e2685f94e1590a52715e4c8bc9a/artifacts
+end_time: 1729229938685
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 8f3b6e2685f94e1590a52715e4c8bc9a
+run_name: hilarious-midge-482
+run_uuid: 8f3b6e2685f94e1590a52715e4c8bc9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229938626
+status: 3
+tags: []
+user_id: milan

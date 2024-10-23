@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/a449a3d8d1a84c9b85859e9d16e76db7/artifacts
+end_time: 1729431066341
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: a449a3d8d1a84c9b85859e9d16e76db7
+run_name: sincere-snail-554
+run_uuid: a449a3d8d1a84c9b85859e9d16e76db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729431066256
+status: 3
+tags: []
+user_id: milan

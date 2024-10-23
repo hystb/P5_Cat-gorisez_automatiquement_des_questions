@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/6d778e035626469b9dc0b2eb5181c821/artifacts
+end_time: 1729192759727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d778e035626469b9dc0b2eb5181c821
+run_name: big-cat-140
+run_uuid: 6d778e035626469b9dc0b2eb5181c821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729192714304
+status: 3
+tags: []
+user_id: milan

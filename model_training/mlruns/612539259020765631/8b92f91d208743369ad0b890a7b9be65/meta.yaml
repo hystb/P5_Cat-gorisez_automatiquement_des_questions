@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/8b92f91d208743369ad0b890a7b9be65/artifacts
+end_time: 1729356675208
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 8b92f91d208743369ad0b890a7b9be65
+run_name: blushing-moth-14
+run_uuid: 8b92f91d208743369ad0b890a7b9be65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729356675137
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/ed3491771cae4d2eaf8e169dd5ce9bd9/artifacts
+end_time: 1729472145451
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: ed3491771cae4d2eaf8e169dd5ce9bd9
+run_name: suave-mule-552
+run_uuid: ed3491771cae4d2eaf8e169dd5ce9bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729472144829
+status: 3
+tags: []
+user_id: milan

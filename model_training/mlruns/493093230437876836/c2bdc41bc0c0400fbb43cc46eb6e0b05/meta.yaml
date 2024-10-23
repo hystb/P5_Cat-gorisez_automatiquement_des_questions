@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/c2bdc41bc0c0400fbb43cc46eb6e0b05/artifacts
+end_time: 1729229112260
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: c2bdc41bc0c0400fbb43cc46eb6e0b05
+run_name: resilient-sheep-509
+run_uuid: c2bdc41bc0c0400fbb43cc46eb6e0b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229109524
+status: 3
+tags: []
+user_id: milan

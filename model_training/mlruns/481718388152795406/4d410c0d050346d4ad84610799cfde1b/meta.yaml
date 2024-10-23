@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/4d410c0d050346d4ad84610799cfde1b/artifacts
+end_time: 1729518742250
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 4d410c0d050346d4ad84610799cfde1b
+run_name: judicious-snipe-931
+run_uuid: 4d410c0d050346d4ad84610799cfde1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518742181
+status: 3
+tags: []
+user_id: milan

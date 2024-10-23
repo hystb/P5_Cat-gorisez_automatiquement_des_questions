@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/6efc3593895f4f9d9b8f6e1d76c0671c/artifacts
+end_time: 1729556567385
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 6efc3593895f4f9d9b8f6e1d76c0671c
+run_name: calm-fowl-128
+run_uuid: 6efc3593895f4f9d9b8f6e1d76c0671c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729556564309
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/4fd766b5ea1e4b64959dcc4e7be32d2c/artifacts
+end_time: 1729518615283
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 4fd766b5ea1e4b64959dcc4e7be32d2c
+run_name: placid-shoat-135
+run_uuid: 4fd766b5ea1e4b64959dcc4e7be32d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518612440
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/6a23a8fcf4af4887a9d6068bd969e53c/artifacts
+end_time: 1729437121560
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 6a23a8fcf4af4887a9d6068bd969e53c
+run_name: unruly-panda-213
+run_uuid: 6a23a8fcf4af4887a9d6068bd969e53c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729437121432
+status: 3
+tags: []
+user_id: milan

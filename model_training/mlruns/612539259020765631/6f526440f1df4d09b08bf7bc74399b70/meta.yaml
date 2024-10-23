@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/6f526440f1df4d09b08bf7bc74399b70/artifacts
+end_time: 1729456706543
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 6f526440f1df4d09b08bf7bc74399b70
+run_name: unequaled-ape-62
+run_uuid: 6f526440f1df4d09b08bf7bc74399b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729456706456
+status: 3
+tags: []
+user_id: milan

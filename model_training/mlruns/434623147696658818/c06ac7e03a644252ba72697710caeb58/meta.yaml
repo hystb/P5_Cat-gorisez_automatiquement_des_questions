@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/c06ac7e03a644252ba72697710caeb58/artifacts
+end_time: 1729229928945
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: c06ac7e03a644252ba72697710caeb58
+run_name: shivering-finch-843
+run_uuid: c06ac7e03a644252ba72697710caeb58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229926315
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,1 @@
+RandomForestClassifier(n_estimator100, criterion gini, max_depthNone, max_featuressqrt, class_weightbalanced_subsample, max_samples0.5)

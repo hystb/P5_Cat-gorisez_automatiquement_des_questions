@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/e391e56c3ba54350acca16c5ef15ed75/artifacts
+end_time: 1729228629956
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: e391e56c3ba54350acca16c5ef15ed75
+run_name: unique-turtle-401
+run_uuid: e391e56c3ba54350acca16c5ef15ed75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228626200
+status: 3
+tags: []
+user_id: milan

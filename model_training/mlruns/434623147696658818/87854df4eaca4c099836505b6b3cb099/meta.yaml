@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/87854df4eaca4c099836505b6b3cb099/artifacts
+end_time: 1729230626986
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 87854df4eaca4c099836505b6b3cb099
+run_name: sassy-turtle-971
+run_uuid: 87854df4eaca4c099836505b6b3cb099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230624328
+status: 3
+tags: []
+user_id: milan

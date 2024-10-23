@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/1066291ec6f64d0896e9486fce157081/artifacts
+end_time: 1729230349333
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 1066291ec6f64d0896e9486fce157081
+run_name: resilient-perch-16
+run_uuid: 1066291ec6f64d0896e9486fce157081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230346623
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/32ebf2b4c6ed46fa8a5c1b946f3a6bfd/artifacts
+end_time: 1729433275596
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 32ebf2b4c6ed46fa8a5c1b946f3a6bfd
+run_name: adventurous-bee-688
+run_uuid: 32ebf2b4c6ed46fa8a5c1b946f3a6bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433275511
+status: 3
+tags: []
+user_id: milan

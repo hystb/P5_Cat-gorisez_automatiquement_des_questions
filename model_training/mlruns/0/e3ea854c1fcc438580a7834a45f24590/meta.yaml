@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/e3ea854c1fcc438580a7834a45f24590/artifacts
+end_time: 1729043528069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3ea854c1fcc438580a7834a45f24590
+run_name: traveling-cod-975
+run_uuid: e3ea854c1fcc438580a7834a45f24590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043524779
+status: 3
+tags: []
+user_id: milan

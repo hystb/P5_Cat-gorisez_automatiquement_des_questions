@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/ea9b14130efa46dfa4b8b71d62259435/artifacts
+end_time: 1729518606024
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: ea9b14130efa46dfa4b8b71d62259435
+run_name: silent-mink-424
+run_uuid: ea9b14130efa46dfa4b8b71d62259435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518605958
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/f3ea4ccc9a504daf87faa8b47cf0c82e/artifacts
+deleted_time: 1729191200028
+end_time: 1729027587011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f3ea4ccc9a504daf87faa8b47cf0c82e
+run_name: enchanting-bass-279
+run_uuid: f3ea4ccc9a504daf87faa8b47cf0c82e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729027580040
+status: 3
+tags: []
+user_id: milan

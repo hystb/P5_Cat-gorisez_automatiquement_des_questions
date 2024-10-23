@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/fd3be0e08ddf4ae7afdb12b9e3831b00/artifacts
+end_time: 1729060085714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd3be0e08ddf4ae7afdb12b9e3831b00
+run_name: crawling-skunk-454
+run_uuid: fd3be0e08ddf4ae7afdb12b9e3831b00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729060083112
+status: 3
+tags: []
+user_id: milan

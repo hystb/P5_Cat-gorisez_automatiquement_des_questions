@@ -1,0 +1,1 @@
+SGDClassifier(alpha 0.7, penalty l1, loss hinge, class_weight balanced)

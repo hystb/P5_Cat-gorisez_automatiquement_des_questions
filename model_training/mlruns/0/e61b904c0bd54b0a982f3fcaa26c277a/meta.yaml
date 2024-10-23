@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/e61b904c0bd54b0a982f3fcaa26c277a/artifacts
+deleted_time: 1729191200228
+end_time: 1729039332792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e61b904c0bd54b0a982f3fcaa26c277a
+run_name: fortunate-doe-518
+run_uuid: e61b904c0bd54b0a982f3fcaa26c277a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729039329556
+status: 3
+tags: []
+user_id: milan

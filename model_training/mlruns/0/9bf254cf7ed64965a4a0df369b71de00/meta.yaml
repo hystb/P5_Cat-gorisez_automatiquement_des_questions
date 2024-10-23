@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/9bf254cf7ed64965a4a0df369b71de00/artifacts
+deleted_time: 1729191200193
+end_time: 1729038957867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9bf254cf7ed64965a4a0df369b71de00
+run_name: classy-loon-220
+run_uuid: 9bf254cf7ed64965a4a0df369b71de00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729038954133
+status: 3
+tags: []
+user_id: milan

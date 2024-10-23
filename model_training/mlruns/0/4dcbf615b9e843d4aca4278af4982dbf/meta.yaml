@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/4dcbf615b9e843d4aca4278af4982dbf/artifacts
+end_time: 1729204598838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dcbf615b9e843d4aca4278af4982dbf
+run_name: burly-bee-244
+run_uuid: 4dcbf615b9e843d4aca4278af4982dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729204595905
+status: 3
+tags: []
+user_id: milan

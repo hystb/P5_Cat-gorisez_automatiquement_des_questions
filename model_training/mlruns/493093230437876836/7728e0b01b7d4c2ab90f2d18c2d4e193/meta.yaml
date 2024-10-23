@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/7728e0b01b7d4c2ab90f2d18c2d4e193/artifacts
+end_time: 1729229430530
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 7728e0b01b7d4c2ab90f2d18c2d4e193
+run_name: grandiose-fowl-560
+run_uuid: 7728e0b01b7d4c2ab90f2d18c2d4e193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229430471
+status: 3
+tags: []
+user_id: milan

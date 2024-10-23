@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/a06e75c888cb495a81e6bdc473acb662/artifacts
+end_time: 1729192417455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a06e75c888cb495a81e6bdc473acb662
+run_name: entertaining-asp-383
+run_uuid: a06e75c888cb495a81e6bdc473acb662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729192414517
+status: 3
+tags: []
+user_id: milan

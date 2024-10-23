@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/67fa13da3e484550987bcdd47dfe38ac/artifacts
+end_time: 1729057171673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67fa13da3e484550987bcdd47dfe38ac
+run_name: monumental-whale-303
+run_uuid: 67fa13da3e484550987bcdd47dfe38ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729057147219
+status: 3
+tags: []
+user_id: milan

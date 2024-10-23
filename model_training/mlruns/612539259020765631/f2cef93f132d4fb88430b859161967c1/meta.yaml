@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/f2cef93f132d4fb88430b859161967c1/artifacts
+end_time: 1729474504238
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: f2cef93f132d4fb88430b859161967c1
+run_name: merciful-mole-937
+run_uuid: f2cef93f132d4fb88430b859161967c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729474504077
+status: 3
+tags: []
+user_id: milan

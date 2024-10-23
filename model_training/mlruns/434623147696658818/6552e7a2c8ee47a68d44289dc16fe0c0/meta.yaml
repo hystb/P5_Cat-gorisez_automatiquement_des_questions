@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/6552e7a2c8ee47a68d44289dc16fe0c0/artifacts
+end_time: 1729229861162
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 6552e7a2c8ee47a68d44289dc16fe0c0
+run_name: delicate-ape-640
+run_uuid: 6552e7a2c8ee47a68d44289dc16fe0c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229858493
+status: 3
+tags: []
+user_id: milan

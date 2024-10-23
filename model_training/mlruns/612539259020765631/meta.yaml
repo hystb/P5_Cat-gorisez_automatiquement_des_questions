@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631
+creation_time: 1729232744302
+experiment_id: '612539259020765631'
+last_update_time: 1729232744302
+lifecycle_stage: active
+name: try_with_different_bert_and_use_setup

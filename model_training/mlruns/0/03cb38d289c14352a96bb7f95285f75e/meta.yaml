@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/03cb38d289c14352a96bb7f95285f75e/artifacts
+end_time: 1729220497693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03cb38d289c14352a96bb7f95285f75e
+run_name: carefree-whale-46
+run_uuid: 03cb38d289c14352a96bb7f95285f75e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729220497636
+status: 3
+tags: []
+user_id: milan

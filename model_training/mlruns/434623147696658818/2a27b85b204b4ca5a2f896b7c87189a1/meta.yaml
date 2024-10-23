@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/2a27b85b204b4ca5a2f896b7c87189a1/artifacts
+end_time: 1729230394616
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 2a27b85b204b4ca5a2f896b7c87189a1
+run_name: likeable-yak-73
+run_uuid: 2a27b85b204b4ca5a2f896b7c87189a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230392007
+status: 3
+tags: []
+user_id: milan

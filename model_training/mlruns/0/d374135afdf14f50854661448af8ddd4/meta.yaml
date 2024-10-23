@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/d374135afdf14f50854661448af8ddd4/artifacts
+end_time: 1729184893253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d374135afdf14f50854661448af8ddd4
+run_name: serious-stag-280
+run_uuid: d374135afdf14f50854661448af8ddd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729184885194
+status: 3
+tags: []
+user_id: milan

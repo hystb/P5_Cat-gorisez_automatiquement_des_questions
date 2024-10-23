@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/f76cfe286a5349b18511d3ca2889e5d9/artifacts
+end_time: 1729208936582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f76cfe286a5349b18511d3ca2889e5d9
+run_name: ambitious-auk-797
+run_uuid: f76cfe286a5349b18511d3ca2889e5d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208936501
+status: 3
+tags: []
+user_id: milan

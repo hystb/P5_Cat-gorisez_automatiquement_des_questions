@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/18e51719f06a4870a7bc239f195b99ce/artifacts
+end_time: 1729518758550
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 18e51719f06a4870a7bc239f195b99ce
+run_name: legendary-newt-561
+run_uuid: 18e51719f06a4870a7bc239f195b99ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518758482
+status: 3
+tags: []
+user_id: milan

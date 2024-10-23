@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/d33787cb86864116b36a8435b1593c60/artifacts
+end_time: 1729558140107
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: d33787cb86864116b36a8435b1593c60
+run_name: fearless-crow-486
+run_uuid: d33787cb86864116b36a8435b1593c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729558136685
+status: 3
+tags: []
+user_id: milan

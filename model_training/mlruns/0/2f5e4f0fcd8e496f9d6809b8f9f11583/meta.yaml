@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/2f5e4f0fcd8e496f9d6809b8f9f11583/artifacts
+end_time: 1729185446814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f5e4f0fcd8e496f9d6809b8f9f11583
+run_name: useful-bee-722
+run_uuid: 2f5e4f0fcd8e496f9d6809b8f9f11583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729185443540
+status: 4
+tags: []
+user_id: milan

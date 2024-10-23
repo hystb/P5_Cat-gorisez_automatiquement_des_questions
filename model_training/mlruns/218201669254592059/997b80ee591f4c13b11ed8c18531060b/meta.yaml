@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/997b80ee591f4c13b11ed8c18531060b/artifacts
+end_time: 1729556620460
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 997b80ee591f4c13b11ed8c18531060b
+run_name: placid-boar-64
+run_uuid: 997b80ee591f4c13b11ed8c18531060b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729556617011
+status: 3
+tags: []
+user_id: milan

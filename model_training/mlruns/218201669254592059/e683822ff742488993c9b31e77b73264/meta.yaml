@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/e683822ff742488993c9b31e77b73264/artifacts
+end_time: 1729562956635
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: e683822ff742488993c9b31e77b73264
+run_name: amazing-fox-685
+run_uuid: e683822ff742488993c9b31e77b73264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729562952229
+status: 3
+tags: []
+user_id: milan

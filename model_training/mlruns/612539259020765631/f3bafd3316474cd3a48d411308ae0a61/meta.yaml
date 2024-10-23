@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/f3bafd3316474cd3a48d411308ae0a61/artifacts
+end_time: 1729429235200
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: f3bafd3316474cd3a48d411308ae0a61
+run_name: capricious-flea-622
+run_uuid: f3bafd3316474cd3a48d411308ae0a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729429235120
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/81928fc9739b4d3e88aaf72760e2a9ca/artifacts
+deleted_time: 1729191200029
+end_time: 1729027777411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 81928fc9739b4d3e88aaf72760e2a9ca
+run_name: clean-fly-722
+run_uuid: 81928fc9739b4d3e88aaf72760e2a9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729027774526
+status: 3
+tags: []
+user_id: milan

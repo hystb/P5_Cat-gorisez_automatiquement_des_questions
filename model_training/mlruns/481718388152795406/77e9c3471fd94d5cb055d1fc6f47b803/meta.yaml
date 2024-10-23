@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/77e9c3471fd94d5cb055d1fc6f47b803/artifacts
+end_time: 1729518772963
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 77e9c3471fd94d5cb055d1fc6f47b803
+run_name: luxuriant-calf-345
+run_uuid: 77e9c3471fd94d5cb055d1fc6f47b803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518772892
+status: 3
+tags: []
+user_id: milan

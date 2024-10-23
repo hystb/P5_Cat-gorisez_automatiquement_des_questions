@@ -1,0 +1,1 @@
+SGDClassifier(alpha 1, penalty l2, loss perceptron, class_weight balanced)

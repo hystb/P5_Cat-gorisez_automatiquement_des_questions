@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/2be3fe757faa453bbf43201e9d057d5e/artifacts
+deleted_time: 1729191200175
+end_time: 1729035471047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2be3fe757faa453bbf43201e9d057d5e
+run_name: bedecked-crane-215
+run_uuid: 2be3fe757faa453bbf43201e9d057d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729035467652
+status: 3
+tags: []
+user_id: milan

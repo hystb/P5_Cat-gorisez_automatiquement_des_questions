@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/dc5b9a281efd4c098e9323ca46ba986c/artifacts
+end_time: 1729383127990
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: dc5b9a281efd4c098e9323ca46ba986c
+run_name: treasured-sponge-724
+run_uuid: dc5b9a281efd4c098e9323ca46ba986c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729383127917
+status: 3
+tags: []
+user_id: milan

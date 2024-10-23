@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/883c3f3f544a42c087477d19c5a986ca/artifacts
+end_time: 1729554632741
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 883c3f3f544a42c087477d19c5a986ca
+run_name: luxuriant-dog-43
+run_uuid: 883c3f3f544a42c087477d19c5a986ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729554632671
+status: 3
+tags: []
+user_id: milan

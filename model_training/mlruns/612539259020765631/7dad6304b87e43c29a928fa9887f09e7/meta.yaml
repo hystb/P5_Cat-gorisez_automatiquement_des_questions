@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/7dad6304b87e43c29a928fa9887f09e7/artifacts
+end_time: 1729326363261
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 7dad6304b87e43c29a928fa9887f09e7
+run_name: victorious-cub-369
+run_uuid: 7dad6304b87e43c29a928fa9887f09e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729326363160
+status: 3
+tags: []
+user_id: milan

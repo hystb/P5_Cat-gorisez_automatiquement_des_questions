@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/45e59790a60c4e3eaaf9d4f1ef6d0f28/artifacts
+deleted_time: 1729191200095
+end_time: 1729033371729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 45e59790a60c4e3eaaf9d4f1ef6d0f28
+run_name: unleashed-kit-13
+run_uuid: 45e59790a60c4e3eaaf9d4f1ef6d0f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729033368601
+status: 3
+tags: []
+user_id: milan

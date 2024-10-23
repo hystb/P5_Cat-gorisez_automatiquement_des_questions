@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/f7bce689294a4581962aece5d518b794/artifacts
+end_time: 1729186695002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7bce689294a4581962aece5d518b794
+run_name: luxuriant-asp-18
+run_uuid: f7bce689294a4581962aece5d518b794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729186688493
+status: 3
+tags: []
+user_id: milan

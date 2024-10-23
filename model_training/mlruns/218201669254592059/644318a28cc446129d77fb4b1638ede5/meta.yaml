@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/644318a28cc446129d77fb4b1638ede5/artifacts
+end_time: 1729563503965
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 644318a28cc446129d77fb4b1638ede5
+run_name: aged-smelt-27
+run_uuid: 644318a28cc446129d77fb4b1638ede5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729563500591
+status: 3
+tags: []
+user_id: milan

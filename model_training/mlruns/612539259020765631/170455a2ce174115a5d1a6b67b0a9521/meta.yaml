@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/170455a2ce174115a5d1a6b67b0a9521/artifacts
+end_time: 1729472664294
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 170455a2ce174115a5d1a6b67b0a9521
+run_name: brawny-wasp-952
+run_uuid: 170455a2ce174115a5d1a6b67b0a9521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729472664198
+status: 3
+tags: []
+user_id: milan

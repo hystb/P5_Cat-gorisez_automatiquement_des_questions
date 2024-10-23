@@ -1,0 +1,1 @@
+SGDClassifier(alpha 1, penalty l1, loss log_loss, class_weight None)

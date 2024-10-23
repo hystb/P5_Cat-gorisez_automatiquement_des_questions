@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/d470013f8bd343acb85044eca9b25589/artifacts
+end_time: 1729264442076
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: d470013f8bd343acb85044eca9b25589
+run_name: bald-goat-361
+run_uuid: d470013f8bd343acb85044eca9b25589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729264442011
+status: 3
+tags: []
+user_id: milan

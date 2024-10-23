@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/7bd8be82d2d64c5ea83c63f87f5ba245/artifacts
+end_time: 1729611246668
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: 7bd8be82d2d64c5ea83c63f87f5ba245
+run_name: resilient-donkey-455
+run_uuid: 7bd8be82d2d64c5ea83c63f87f5ba245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729611240813
+status: 3
+tags: []
+user_id: milan

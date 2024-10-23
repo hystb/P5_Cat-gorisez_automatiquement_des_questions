@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/e396d56baeae499bbbe120bc6fab9b8d/artifacts
+end_time: 1729229147790
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: e396d56baeae499bbbe120bc6fab9b8d
+run_name: rare-yak-622
+run_uuid: e396d56baeae499bbbe120bc6fab9b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229147727
+status: 3
+tags: []
+user_id: milan

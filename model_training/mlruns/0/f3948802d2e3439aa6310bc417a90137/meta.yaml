@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/f3948802d2e3439aa6310bc417a90137/artifacts
+end_time: 1729059920613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3948802d2e3439aa6310bc417a90137
+run_name: peaceful-rook-115
+run_uuid: f3948802d2e3439aa6310bc417a90137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729059918027
+status: 3
+tags: []
+user_id: milan

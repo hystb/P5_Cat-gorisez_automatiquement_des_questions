@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/f0613a329fd84d22b8a4df4d518e0575/artifacts
+end_time: 1729518783028
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: f0613a329fd84d22b8a4df4d518e0575
+run_name: luminous-donkey-165
+run_uuid: f0613a329fd84d22b8a4df4d518e0575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518782960
+status: 3
+tags: []
+user_id: milan

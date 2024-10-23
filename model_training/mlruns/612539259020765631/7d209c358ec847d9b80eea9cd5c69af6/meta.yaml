@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/7d209c358ec847d9b80eea9cd5c69af6/artifacts
+end_time: 1729470933611
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 7d209c358ec847d9b80eea9cd5c69af6
+run_name: serious-sow-316
+run_uuid: 7d209c358ec847d9b80eea9cd5c69af6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729470933513
+status: 3
+tags: []
+user_id: milan

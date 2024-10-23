@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/5d5ca0573e604c3a9006ebbb9a067a8c/artifacts
+end_time: 1729199380980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d5ca0573e604c3a9006ebbb9a067a8c
+run_name: agreeable-sloth-494
+run_uuid: 5d5ca0573e604c3a9006ebbb9a067a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729199377930
+status: 3
+tags: []
+user_id: milan

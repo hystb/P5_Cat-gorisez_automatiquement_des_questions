@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/71d2bd7034704eca8a1a777487c8f021/artifacts
+end_time: 1729230411419
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 71d2bd7034704eca8a1a777487c8f021
+run_name: tasteful-cub-173
+run_uuid: 71d2bd7034704eca8a1a777487c8f021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230408515
+status: 3
+tags: []
+user_id: milan

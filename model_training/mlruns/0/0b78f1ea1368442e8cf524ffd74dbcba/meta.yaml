@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/0b78f1ea1368442e8cf524ffd74dbcba/artifacts
+deleted_time: 1729191200031
+end_time: 1729027618813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0b78f1ea1368442e8cf524ffd74dbcba
+run_name: capricious-asp-389
+run_uuid: 0b78f1ea1368442e8cf524ffd74dbcba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729027615776
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/435cfb8ddae84814ac83855dcde29de3/artifacts
+end_time: 1729275419776
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 435cfb8ddae84814ac83855dcde29de3
+run_name: wistful-ox-306
+run_uuid: 435cfb8ddae84814ac83855dcde29de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729275419682
+status: 3
+tags: []
+user_id: milan

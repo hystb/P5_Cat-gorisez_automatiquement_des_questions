@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/94e1148ecf7643589d69e091be6e487c/artifacts
+end_time: 1729229895565
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 94e1148ecf7643589d69e091be6e487c
+run_name: chill-shark-940
+run_uuid: 94e1148ecf7643589d69e091be6e487c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229895499
+status: 3
+tags: []
+user_id: milan

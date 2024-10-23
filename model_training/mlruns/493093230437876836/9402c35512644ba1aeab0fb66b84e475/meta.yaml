@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/9402c35512644ba1aeab0fb66b84e475/artifacts
+end_time: 1729229421915
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 9402c35512644ba1aeab0fb66b84e475
+run_name: amusing-eel-248
+run_uuid: 9402c35512644ba1aeab0fb66b84e475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229421859
+status: 3
+tags: []
+user_id: milan

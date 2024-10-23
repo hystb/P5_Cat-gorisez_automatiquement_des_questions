@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/e0f7099b7a5949e0b8c8ebc421cef8c2/artifacts
+end_time: 1729562425428
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: e0f7099b7a5949e0b8c8ebc421cef8c2
+run_name: amazing-ray-169
+run_uuid: e0f7099b7a5949e0b8c8ebc421cef8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729562418121
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/4270632fa6f24f1ea0d432414816a3ae/artifacts
+end_time: 1729354776131
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 4270632fa6f24f1ea0d432414816a3ae
+run_name: vaunted-fly-273
+run_uuid: 4270632fa6f24f1ea0d432414816a3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729354776059
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/089faf79622c4427b7589b00926aabbc/artifacts
+end_time: 1729559654258
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 089faf79622c4427b7589b00926aabbc
+run_name: funny-crane-98
+run_uuid: 089faf79622c4427b7589b00926aabbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729559651200
+status: 3
+tags: []
+user_id: milan

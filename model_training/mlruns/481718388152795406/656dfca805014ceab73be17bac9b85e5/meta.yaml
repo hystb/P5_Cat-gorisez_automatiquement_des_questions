@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/656dfca805014ceab73be17bac9b85e5/artifacts
+end_time: 1729518878774
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 656dfca805014ceab73be17bac9b85e5
+run_name: chill-wasp-294
+run_uuid: 656dfca805014ceab73be17bac9b85e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518878707
+status: 3
+tags: []
+user_id: milan

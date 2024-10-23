@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/230f9c5fd63f43e3b00a44cb32a5d0a1/artifacts
+end_time: 1729559859186
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 230f9c5fd63f43e3b00a44cb32a5d0a1
+run_name: overjoyed-deer-124
+run_uuid: 230f9c5fd63f43e3b00a44cb32a5d0a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729559855843
+status: 3
+tags: []
+user_id: milan

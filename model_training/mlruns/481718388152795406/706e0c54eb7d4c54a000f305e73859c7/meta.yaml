@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/706e0c54eb7d4c54a000f305e73859c7/artifacts
+end_time: 1729518647866
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 706e0c54eb7d4c54a000f305e73859c7
+run_name: painted-grub-496
+run_uuid: 706e0c54eb7d4c54a000f305e73859c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518647802
+status: 3
+tags: []
+user_id: milan

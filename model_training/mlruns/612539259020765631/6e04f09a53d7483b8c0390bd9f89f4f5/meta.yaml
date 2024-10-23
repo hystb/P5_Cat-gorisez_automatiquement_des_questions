@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/6e04f09a53d7483b8c0390bd9f89f4f5/artifacts
+end_time: 1729270088319
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 6e04f09a53d7483b8c0390bd9f89f4f5
+run_name: industrious-dove-16
+run_uuid: 6e04f09a53d7483b8c0390bd9f89f4f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729270088252
+status: 3
+tags: []
+user_id: milan

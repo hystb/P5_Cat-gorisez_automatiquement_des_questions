@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/bb99c57e17b54be799c20457c7a8f17b/artifacts
+end_time: 1729356853925
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: bb99c57e17b54be799c20457c7a8f17b
+run_name: luxuriant-smelt-225
+run_uuid: bb99c57e17b54be799c20457c7a8f17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729356853852
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/879fc70d6605463e8cd39cc81d6fe603/artifacts
+end_time: 1729193339749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 879fc70d6605463e8cd39cc81d6fe603
+run_name: bouncy-panda-719
+run_uuid: 879fc70d6605463e8cd39cc81d6fe603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729193339685
+status: 3
+tags: []
+user_id: milan

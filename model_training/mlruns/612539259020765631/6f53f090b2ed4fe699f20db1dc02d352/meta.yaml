@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/6f53f090b2ed4fe699f20db1dc02d352/artifacts
+end_time: 1729389845743
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 6f53f090b2ed4fe699f20db1dc02d352
+run_name: mercurial-carp-825
+run_uuid: 6f53f090b2ed4fe699f20db1dc02d352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729389845671
+status: 3
+tags: []
+user_id: milan

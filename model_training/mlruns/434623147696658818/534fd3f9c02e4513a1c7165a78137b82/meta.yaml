@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/534fd3f9c02e4513a1c7165a78137b82/artifacts
+end_time: 1729230439909
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 534fd3f9c02e4513a1c7165a78137b82
+run_name: orderly-skink-273
+run_uuid: 534fd3f9c02e4513a1c7165a78137b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230437306
+status: 3
+tags: []
+user_id: milan

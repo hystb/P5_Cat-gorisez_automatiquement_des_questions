@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406
+creation_time: 1729517808139
+experiment_id: '481718388152795406'
+last_update_time: 1729517808139
+lifecycle_stage: active
+name: try_tfidf_instead_of_countvectorizer

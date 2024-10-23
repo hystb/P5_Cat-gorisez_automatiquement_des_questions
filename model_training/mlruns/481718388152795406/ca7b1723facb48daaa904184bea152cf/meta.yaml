@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/ca7b1723facb48daaa904184bea152cf/artifacts
+end_time: 1729518822564
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: ca7b1723facb48daaa904184bea152cf
+run_name: invincible-stag-420
+run_uuid: ca7b1723facb48daaa904184bea152cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518822494
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/db71875910774d8992cecab5c7efb977/artifacts
+end_time: 1729214843221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db71875910774d8992cecab5c7efb977
+run_name: dashing-gull-969
+run_uuid: db71875910774d8992cecab5c7efb977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729214839545
+status: 3
+tags: []
+user_id: milan

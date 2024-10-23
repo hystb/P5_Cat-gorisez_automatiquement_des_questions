@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/a677d0bd94e7465997d317c557ede1fd/artifacts
+deleted_time: 1729191200059
+end_time: 1729029864653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a677d0bd94e7465997d317c557ede1fd
+run_name: flawless-steed-206
+run_uuid: a677d0bd94e7465997d317c557ede1fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729029861465
+status: 3
+tags: []
+user_id: milan

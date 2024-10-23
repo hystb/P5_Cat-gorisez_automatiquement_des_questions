@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/07a0855101664551958263ae9fd91888/artifacts
+end_time: 1729343476046
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 07a0855101664551958263ae9fd91888
+run_name: upset-wasp-232
+run_uuid: 07a0855101664551958263ae9fd91888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729343475960
+status: 3
+tags: []
+user_id: milan

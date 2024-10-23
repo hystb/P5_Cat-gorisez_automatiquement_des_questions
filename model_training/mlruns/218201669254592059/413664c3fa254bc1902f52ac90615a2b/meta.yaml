@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/413664c3fa254bc1902f52ac90615a2b/artifacts
+end_time: 1729556450197
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 413664c3fa254bc1902f52ac90615a2b
+run_name: mysterious-moose-975
+run_uuid: 413664c3fa254bc1902f52ac90615a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729556447302
+status: 3
+tags: []
+user_id: milan

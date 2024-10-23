@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/62b3e998a873409498bc5e5bd1e68e13/artifacts
+end_time: 1729230493914
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 62b3e998a873409498bc5e5bd1e68e13
+run_name: intrigued-chimp-278
+run_uuid: 62b3e998a873409498bc5e5bd1e68e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230491280
+status: 3
+tags: []
+user_id: milan

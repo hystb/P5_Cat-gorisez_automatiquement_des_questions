@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/26bef19018bc413dbfa26b4f1827fc6b/artifacts
+end_time: 1729560217522
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 26bef19018bc413dbfa26b4f1827fc6b
+run_name: gregarious-sheep-927
+run_uuid: 26bef19018bc413dbfa26b4f1827fc6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729560214203
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/96275821a2a74b6399f197060df80ac3/artifacts
+end_time: 1729556970241
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 96275821a2a74b6399f197060df80ac3
+run_name: sophisticated-ox-209
+run_uuid: 96275821a2a74b6399f197060df80ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729556970179
+status: 3
+tags: []
+user_id: milan

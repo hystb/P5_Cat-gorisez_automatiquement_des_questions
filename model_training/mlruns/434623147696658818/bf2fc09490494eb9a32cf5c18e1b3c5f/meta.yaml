@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/bf2fc09490494eb9a32cf5c18e1b3c5f/artifacts
+end_time: 1729229892528
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: bf2fc09490494eb9a32cf5c18e1b3c5f
+run_name: funny-hog-27
+run_uuid: bf2fc09490494eb9a32cf5c18e1b3c5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229892471
+status: 3
+tags: []
+user_id: milan

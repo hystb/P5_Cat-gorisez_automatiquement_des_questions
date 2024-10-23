@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/4993694bb7184bcba71bc5449618d134/artifacts
+end_time: 1729230535092
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 4993694bb7184bcba71bc5449618d134
+run_name: auspicious-vole-64
+run_uuid: 4993694bb7184bcba71bc5449618d134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230535023
+status: 3
+tags: []
+user_id: milan

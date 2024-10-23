@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/149235303490640016/8e9f2919501044a58037491a249d8bbe/artifacts
+end_time: 1729224953915
+entry_point_name: ''
+experiment_id: '149235303490640016'
+lifecycle_stage: active
+run_id: 8e9f2919501044a58037491a249d8bbe
+run_name: fortunate-hare-374
+run_uuid: 8e9f2919501044a58037491a249d8bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729224951019
+status: 3
+tags: []
+user_id: milan

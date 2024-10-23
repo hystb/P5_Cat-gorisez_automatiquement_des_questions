@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/31dff9b976d94db2ac10ca9c13ec7b51/artifacts
+end_time: 1729589250903
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: 31dff9b976d94db2ac10ca9c13ec7b51
+run_name: tasteful-sloth-903
+run_uuid: 31dff9b976d94db2ac10ca9c13ec7b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729589250843
+status: 3
+tags: []
+user_id: milan

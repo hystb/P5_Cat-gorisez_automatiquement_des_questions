@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/09fcbc0070fe43a59bbd33d5bf83f134/artifacts
+end_time: 1729432546060
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 09fcbc0070fe43a59bbd33d5bf83f134
+run_name: ambitious-koi-142
+run_uuid: 09fcbc0070fe43a59bbd33d5bf83f134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432545976
+status: 3
+tags: []
+user_id: milan

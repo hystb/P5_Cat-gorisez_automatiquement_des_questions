@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/e0fa3385b5e04441af0c59e43bd50976/artifacts
+end_time: 1729518748635
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: e0fa3385b5e04441af0c59e43bd50976
+run_name: traveling-lynx-742
+run_uuid: e0fa3385b5e04441af0c59e43bd50976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518748566
+status: 3
+tags: []
+user_id: milan

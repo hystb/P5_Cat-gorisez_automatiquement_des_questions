@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/24f06a1f356e4316a1883e6a3e496059/artifacts
+end_time: 1729351780345
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 24f06a1f356e4316a1883e6a3e496059
+run_name: big-yak-402
+run_uuid: 24f06a1f356e4316a1883e6a3e496059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729351780267
+status: 3
+tags: []
+user_id: milan

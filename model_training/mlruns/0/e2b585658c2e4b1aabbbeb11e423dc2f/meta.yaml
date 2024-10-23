@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/e2b585658c2e4b1aabbbeb11e423dc2f/artifacts
+end_time: 1729204561544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2b585658c2e4b1aabbbeb11e423dc2f
+run_name: mercurial-boar-427
+run_uuid: e2b585658c2e4b1aabbbeb11e423dc2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729204561480
+status: 3
+tags: []
+user_id: milan

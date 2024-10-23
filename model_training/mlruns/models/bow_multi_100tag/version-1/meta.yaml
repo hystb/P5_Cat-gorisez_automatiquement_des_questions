@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729225618383
+current_stage: None
+description: ''
+last_updated_timestamp: 1729225618383
+name: bow_multi_100tag
+run_id: 6190ce9e999f41f5ae6a92bf51c84257
+run_link: ''
+source: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/6190ce9e999f41f5ae6a92bf51c84257/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/6190ce9e999f41f5ae6a92bf51c84257/artifacts/model
+user_id: null
+version: 1

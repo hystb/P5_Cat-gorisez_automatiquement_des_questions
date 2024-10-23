@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/7b11606c4a214442a992edb1c75e29c5/artifacts
+end_time: 1729434642539
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 7b11606c4a214442a992edb1c75e29c5
+run_name: capable-horse-752
+run_uuid: 7b11606c4a214442a992edb1c75e29c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729434642458
+status: 3
+tags: []
+user_id: milan

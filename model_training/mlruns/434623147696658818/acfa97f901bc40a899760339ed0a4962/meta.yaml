@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/acfa97f901bc40a899760339ed0a4962/artifacts
+end_time: 1729230558165
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: acfa97f901bc40a899760339ed0a4962
+run_name: dashing-stoat-266
+run_uuid: acfa97f901bc40a899760339ed0a4962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230558103
+status: 3
+tags: []
+user_id: milan

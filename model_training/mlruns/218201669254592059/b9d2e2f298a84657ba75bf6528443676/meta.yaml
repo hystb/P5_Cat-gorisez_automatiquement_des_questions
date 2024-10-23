@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/b9d2e2f298a84657ba75bf6528443676/artifacts
+end_time: 1729562083748
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: b9d2e2f298a84657ba75bf6528443676
+run_name: thundering-fly-48
+run_uuid: b9d2e2f298a84657ba75bf6528443676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729562080375
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/aeff4b1eb07f46a9a9f33cdc21bc5dd2/artifacts
+end_time: 1729518690474
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: aeff4b1eb07f46a9a9f33cdc21bc5dd2
+run_name: merciful-newt-267
+run_uuid: aeff4b1eb07f46a9a9f33cdc21bc5dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518690406
+status: 3
+tags: []
+user_id: milan

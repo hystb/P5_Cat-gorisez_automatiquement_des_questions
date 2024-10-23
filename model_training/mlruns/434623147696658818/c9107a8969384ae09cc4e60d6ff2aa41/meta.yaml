@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/c9107a8969384ae09cc4e60d6ff2aa41/artifacts
+end_time: 1729230475918
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: c9107a8969384ae09cc4e60d6ff2aa41
+run_name: silent-gnat-687
+run_uuid: c9107a8969384ae09cc4e60d6ff2aa41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230473055
+status: 3
+tags: []
+user_id: milan

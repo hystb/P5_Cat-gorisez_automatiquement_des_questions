@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/2cdadcc3ef05409e896532725f024ef9/artifacts
+end_time: 1729230545117
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 2cdadcc3ef05409e896532725f024ef9
+run_name: worried-snail-625
+run_uuid: 2cdadcc3ef05409e896532725f024ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230545054
+status: 3
+tags: []
+user_id: milan

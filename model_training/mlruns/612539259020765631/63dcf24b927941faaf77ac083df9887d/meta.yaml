@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/63dcf24b927941faaf77ac083df9887d/artifacts
+end_time: 1729482839582
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 63dcf24b927941faaf77ac083df9887d
+run_name: redolent-roo-448
+run_uuid: 63dcf24b927941faaf77ac083df9887d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729482839472
+status: 3
+tags: []
+user_id: milan

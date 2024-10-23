@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/3c2b7337a0504c7384d8ee56da6478b5/artifacts
+end_time: 1729229413348
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 3c2b7337a0504c7384d8ee56da6478b5
+run_name: victorious-cat-188
+run_uuid: 3c2b7337a0504c7384d8ee56da6478b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229413291
+status: 3
+tags: []
+user_id: milan

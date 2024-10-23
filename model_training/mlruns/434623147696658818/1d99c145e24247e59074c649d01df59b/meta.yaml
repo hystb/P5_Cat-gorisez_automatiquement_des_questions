@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/1d99c145e24247e59074c649d01df59b/artifacts
+end_time: 1729230383697
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 1d99c145e24247e59074c649d01df59b
+run_name: capable-quail-130
+run_uuid: 1d99c145e24247e59074c649d01df59b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230380864
+status: 3
+tags: []
+user_id: milan

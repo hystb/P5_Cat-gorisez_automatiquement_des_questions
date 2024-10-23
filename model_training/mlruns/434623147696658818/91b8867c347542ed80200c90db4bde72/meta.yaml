@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/91b8867c347542ed80200c90db4bde72/artifacts
+end_time: 1729230422585
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 91b8867c347542ed80200c90db4bde72
+run_name: capricious-wasp-615
+run_uuid: 91b8867c347542ed80200c90db4bde72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230419872
+status: 3
+tags: []
+user_id: milan

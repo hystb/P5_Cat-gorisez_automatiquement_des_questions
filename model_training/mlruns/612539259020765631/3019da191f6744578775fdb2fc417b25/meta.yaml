@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/3019da191f6744578775fdb2fc417b25/artifacts
+end_time: 1729419455338
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 3019da191f6744578775fdb2fc417b25
+run_name: aged-lark-863
+run_uuid: 3019da191f6744578775fdb2fc417b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729419455261
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/f017281303ce4017b17f5b5a1a94613b/artifacts
+end_time: 1729212390195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f017281303ce4017b17f5b5a1a94613b
+run_name: delightful-whale-606
+run_uuid: f017281303ce4017b17f5b5a1a94613b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729212390068
+status: 3
+tags: []
+user_id: milan

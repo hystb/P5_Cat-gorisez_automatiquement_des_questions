@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/2881d4135f364cfda095a0b5b447c5aa/artifacts
+deleted_time: 1729191200227
+end_time: 1729039234155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2881d4135f364cfda095a0b5b447c5aa
+run_name: melodic-lamb-839
+run_uuid: 2881d4135f364cfda095a0b5b447c5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729039230667
+status: 3
+tags: []
+user_id: milan

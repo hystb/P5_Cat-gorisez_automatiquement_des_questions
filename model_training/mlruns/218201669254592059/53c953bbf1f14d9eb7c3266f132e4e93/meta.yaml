@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/53c953bbf1f14d9eb7c3266f132e4e93/artifacts
+end_time: 1729556821430
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 53c953bbf1f14d9eb7c3266f132e4e93
+run_name: colorful-dog-673
+run_uuid: 53c953bbf1f14d9eb7c3266f132e4e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729556821371
+status: 3
+tags: []
+user_id: milan

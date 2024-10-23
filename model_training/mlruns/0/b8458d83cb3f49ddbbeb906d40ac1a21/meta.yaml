@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/b8458d83cb3f49ddbbeb906d40ac1a21/artifacts
+end_time: 1729059434651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8458d83cb3f49ddbbeb906d40ac1a21
+run_name: unleashed-crab-306
+run_uuid: b8458d83cb3f49ddbbeb906d40ac1a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729059432044
+status: 3
+tags: []
+user_id: milan

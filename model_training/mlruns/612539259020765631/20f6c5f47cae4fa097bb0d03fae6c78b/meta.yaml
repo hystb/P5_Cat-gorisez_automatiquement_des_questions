@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/20f6c5f47cae4fa097bb0d03fae6c78b/artifacts
+end_time: 1729389125571
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 20f6c5f47cae4fa097bb0d03fae6c78b
+run_name: upbeat-dog-426
+run_uuid: 20f6c5f47cae4fa097bb0d03fae6c78b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729389125497
+status: 3
+tags: []
+user_id: milan

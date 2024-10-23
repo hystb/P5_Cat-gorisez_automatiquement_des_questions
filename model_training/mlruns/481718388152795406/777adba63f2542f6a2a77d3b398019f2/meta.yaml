@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/777adba63f2542f6a2a77d3b398019f2/artifacts
+end_time: 1729518857477
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 777adba63f2542f6a2a77d3b398019f2
+run_name: crawling-shad-104
+run_uuid: 777adba63f2542f6a2a77d3b398019f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518857410
+status: 3
+tags: []
+user_id: milan

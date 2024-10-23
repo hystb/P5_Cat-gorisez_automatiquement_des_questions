@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/d9253b9aa00a457b8b7cda8c9f7a3812/artifacts
+end_time: 1729040349819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9253b9aa00a457b8b7cda8c9f7a3812
+run_name: classy-moose-646
+run_uuid: d9253b9aa00a457b8b7cda8c9f7a3812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729040303144
+status: 3
+tags: []
+user_id: milan

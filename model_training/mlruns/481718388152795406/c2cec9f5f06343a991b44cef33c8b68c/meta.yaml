@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/c2cec9f5f06343a991b44cef33c8b68c/artifacts
+end_time: 1729518703762
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: c2cec9f5f06343a991b44cef33c8b68c
+run_name: marvelous-skunk-545
+run_uuid: c2cec9f5f06343a991b44cef33c8b68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518703685
+status: 3
+tags: []
+user_id: milan

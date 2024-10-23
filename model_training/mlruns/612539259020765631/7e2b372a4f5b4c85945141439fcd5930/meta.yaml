@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/7e2b372a4f5b4c85945141439fcd5930/artifacts
+end_time: 1729468481234
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 7e2b372a4f5b4c85945141439fcd5930
+run_name: dashing-bass-759
+run_uuid: 7e2b372a4f5b4c85945141439fcd5930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729468481134
+status: 3
+tags: []
+user_id: milan

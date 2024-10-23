@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/4e1985c055414c3b9dddf7bffb909336/artifacts
+end_time: 1729470843515
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 4e1985c055414c3b9dddf7bffb909336
+run_name: casual-loon-78
+run_uuid: 4e1985c055414c3b9dddf7bffb909336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729470843410
+status: 3
+tags: []
+user_id: milan

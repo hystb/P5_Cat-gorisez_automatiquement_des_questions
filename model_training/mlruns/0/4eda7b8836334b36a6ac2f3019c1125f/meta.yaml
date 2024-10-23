@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/4eda7b8836334b36a6ac2f3019c1125f/artifacts
+end_time: 1729205042045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eda7b8836334b36a6ac2f3019c1125f
+run_name: victorious-croc-124
+run_uuid: 4eda7b8836334b36a6ac2f3019c1125f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729204991191
+status: 4
+tags: []
+user_id: milan

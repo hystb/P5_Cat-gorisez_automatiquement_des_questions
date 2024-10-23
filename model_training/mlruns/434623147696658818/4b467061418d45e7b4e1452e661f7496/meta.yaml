@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/4b467061418d45e7b4e1452e661f7496/artifacts
+end_time: 1729230648958
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 4b467061418d45e7b4e1452e661f7496
+run_name: bright-moth-168
+run_uuid: 4b467061418d45e7b4e1452e661f7496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230646322
+status: 3
+tags: []
+user_id: milan

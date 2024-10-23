@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/5757c04db6904ceba224c87d63c68e7c/artifacts
+end_time: 1729517893389
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 5757c04db6904ceba224c87d63c68e7c
+run_name: tasteful-bird-986
+run_uuid: 5757c04db6904ceba224c87d63c68e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729517888877
+status: 3
+tags: []
+user_id: milan

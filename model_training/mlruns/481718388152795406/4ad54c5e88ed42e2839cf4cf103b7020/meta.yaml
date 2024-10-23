@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/4ad54c5e88ed42e2839cf4cf103b7020/artifacts
+end_time: 1729518725876
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 4ad54c5e88ed42e2839cf4cf103b7020
+run_name: treasured-cow-885
+run_uuid: 4ad54c5e88ed42e2839cf4cf103b7020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518725804
+status: 3
+tags: []
+user_id: milan

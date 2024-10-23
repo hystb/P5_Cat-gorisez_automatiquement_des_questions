@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/4c0551a91e3248b98606f7bb6db8cafe/artifacts
+end_time: 1729230451461
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 4c0551a91e3248b98606f7bb6db8cafe
+run_name: burly-shrimp-911
+run_uuid: 4c0551a91e3248b98606f7bb6db8cafe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230448805
+status: 3
+tags: []
+user_id: milan

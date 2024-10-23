@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/7639fedb949447b499fc8b9737a95860/artifacts
+end_time: 1729230654394
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 7639fedb949447b499fc8b9737a95860
+run_name: intelligent-foal-897
+run_uuid: 7639fedb949447b499fc8b9737a95860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230651761
+status: 3
+tags: []
+user_id: milan

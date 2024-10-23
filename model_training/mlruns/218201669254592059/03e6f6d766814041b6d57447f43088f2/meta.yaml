@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/03e6f6d766814041b6d57447f43088f2/artifacts
+end_time: 1729561613082
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 03e6f6d766814041b6d57447f43088f2
+run_name: fearless-finch-160
+run_uuid: 03e6f6d766814041b6d57447f43088f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561609923
+status: 3
+tags: []
+user_id: milan

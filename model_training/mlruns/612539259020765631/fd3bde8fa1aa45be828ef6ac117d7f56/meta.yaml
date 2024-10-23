@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/fd3bde8fa1aa45be828ef6ac117d7f56/artifacts
+end_time: 1729378733891
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: fd3bde8fa1aa45be828ef6ac117d7f56
+run_name: bold-bee-80
+run_uuid: fd3bde8fa1aa45be828ef6ac117d7f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729378733813
+status: 3
+tags: []
+user_id: milan

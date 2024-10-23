@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/64947a1aa79c441c86fcce19b9cd1d4a/artifacts
+end_time: 1729518640901
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 64947a1aa79c441c86fcce19b9cd1d4a
+run_name: burly-yak-350
+run_uuid: 64947a1aa79c441c86fcce19b9cd1d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518640839
+status: 3
+tags: []
+user_id: milan

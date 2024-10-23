@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/9f3910707f6c42c6ab5777250223df13/artifacts
+end_time: 1729411254245
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 9f3910707f6c42c6ab5777250223df13
+run_name: rogue-vole-674
+run_uuid: 9f3910707f6c42c6ab5777250223df13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729411254171
+status: 3
+tags: []
+user_id: milan

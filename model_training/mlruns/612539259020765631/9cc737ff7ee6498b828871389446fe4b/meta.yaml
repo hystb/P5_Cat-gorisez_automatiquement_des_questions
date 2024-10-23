@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/9cc737ff7ee6498b828871389446fe4b/artifacts
+end_time: 1729423169520
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 9cc737ff7ee6498b828871389446fe4b
+run_name: bedecked-croc-441
+run_uuid: 9cc737ff7ee6498b828871389446fe4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729423169444
+status: 3
+tags: []
+user_id: milan

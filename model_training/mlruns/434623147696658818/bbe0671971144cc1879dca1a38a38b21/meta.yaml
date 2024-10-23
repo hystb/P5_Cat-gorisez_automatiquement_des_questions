@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/bbe0671971144cc1879dca1a38a38b21/artifacts
+end_time: 1729230445660
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: bbe0671971144cc1879dca1a38a38b21
+run_name: illustrious-foal-712
+run_uuid: bbe0671971144cc1879dca1a38a38b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230443049
+status: 3
+tags: []
+user_id: milan

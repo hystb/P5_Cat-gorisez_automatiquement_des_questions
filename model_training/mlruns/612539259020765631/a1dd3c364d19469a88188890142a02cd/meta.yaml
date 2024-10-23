@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/a1dd3c364d19469a88188890142a02cd/artifacts
+end_time: 1729354279212
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: a1dd3c364d19469a88188890142a02cd
+run_name: salty-colt-17
+run_uuid: a1dd3c364d19469a88188890142a02cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729354279134
+status: 3
+tags: []
+user_id: milan

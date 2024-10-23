@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/34dc4d11b06740bbbcb5aeb0f6b6a384/artifacts
+end_time: 1729605662099
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: 34dc4d11b06740bbbcb5aeb0f6b6a384
+run_name: burly-gull-455
+run_uuid: 34dc4d11b06740bbbcb5aeb0f6b6a384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729605662035
+status: 3
+tags: []
+user_id: milan

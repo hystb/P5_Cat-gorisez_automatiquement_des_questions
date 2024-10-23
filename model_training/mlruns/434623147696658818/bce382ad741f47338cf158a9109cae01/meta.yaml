@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/bce382ad741f47338cf158a9109cae01/artifacts
+end_time: 1729229889673
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: bce382ad741f47338cf158a9109cae01
+run_name: charming-shrimp-175
+run_uuid: bce382ad741f47338cf158a9109cae01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229889618
+status: 3
+tags: []
+user_id: milan

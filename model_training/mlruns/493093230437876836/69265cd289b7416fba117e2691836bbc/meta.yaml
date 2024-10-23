@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/69265cd289b7416fba117e2691836bbc/artifacts
+end_time: 1729229043894
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 69265cd289b7416fba117e2691836bbc
+run_name: secretive-owl-879
+run_uuid: 69265cd289b7416fba117e2691836bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229041101
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/5ef88aec3fb5458cb672b0c1be6dadb8/artifacts
+end_time: 1729557022232
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 5ef88aec3fb5458cb672b0c1be6dadb8
+run_name: vaunted-bass-763
+run_uuid: 5ef88aec3fb5458cb672b0c1be6dadb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729557022176
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/2b88c0e06f514ceab7b8f93f9f799ffe/artifacts
+end_time: 1729230621493
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 2b88c0e06f514ceab7b8f93f9f799ffe
+run_name: capable-gnu-347
+run_uuid: 2b88c0e06f514ceab7b8f93f9f799ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230618852
+status: 3
+tags: []
+user_id: milan

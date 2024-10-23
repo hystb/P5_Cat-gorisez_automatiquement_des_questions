@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/fa06343701b940348ae559c07f5a6568/artifacts
+end_time: 1729228696849
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: fa06343701b940348ae559c07f5a6568
+run_name: nebulous-croc-979
+run_uuid: fa06343701b940348ae559c07f5a6568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228694124
+status: 3
+tags: []
+user_id: milan

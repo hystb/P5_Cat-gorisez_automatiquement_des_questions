@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/524a6436637543ae8819a344b8aa9731/artifacts
+end_time: 1729230338411
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 524a6436637543ae8819a344b8aa9731
+run_name: dazzling-goose-672
+run_uuid: 524a6436637543ae8819a344b8aa9731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230335780
+status: 3
+tags: []
+user_id: milan

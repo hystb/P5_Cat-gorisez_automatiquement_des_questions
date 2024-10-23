@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/084e6e72248a4cc2a9ebaecffb5f082f/artifacts
+end_time: 1729228673803
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 084e6e72248a4cc2a9ebaecffb5f082f
+run_name: valuable-ram-983
+run_uuid: 084e6e72248a4cc2a9ebaecffb5f082f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228671076
+status: 3
+tags: []
+user_id: milan

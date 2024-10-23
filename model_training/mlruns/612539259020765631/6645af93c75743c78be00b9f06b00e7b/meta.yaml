@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/6645af93c75743c78be00b9f06b00e7b/artifacts
+end_time: 1729420493540
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 6645af93c75743c78be00b9f06b00e7b
+run_name: thoughtful-horse-363
+run_uuid: 6645af93c75743c78be00b9f06b00e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729420493465
+status: 3
+tags: []
+user_id: milan

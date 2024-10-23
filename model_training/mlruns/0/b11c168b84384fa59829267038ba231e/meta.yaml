@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/b11c168b84384fa59829267038ba231e/artifacts
+deleted_time: 1729192479351
+end_time: 1729053149414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b11c168b84384fa59829267038ba231e
+run_name: wise-slug-212
+run_uuid: b11c168b84384fa59829267038ba231e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729053101137
+status: 3
+tags: []
+user_id: milan

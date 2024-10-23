@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/ae5f22beb40548e89e1fb92dea6779d3/artifacts
+end_time: 1729518625085
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: ae5f22beb40548e89e1fb92dea6779d3
+run_name: capricious-snail-28
+run_uuid: ae5f22beb40548e89e1fb92dea6779d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518622077
+status: 3
+tags: []
+user_id: milan

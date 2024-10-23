@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/36cb7d6945cb4ec68482e55e160af110/artifacts
+end_time: 1729411172037
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 36cb7d6945cb4ec68482e55e160af110
+run_name: silent-fawn-27
+run_uuid: 36cb7d6945cb4ec68482e55e160af110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729411171963
+status: 3
+tags: []
+user_id: milan

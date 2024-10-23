@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/dbce71d6986c45e9b01c25be6e1132d2/artifacts
+end_time: 1729187414022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbce71d6986c45e9b01c25be6e1132d2
+run_name: upbeat-conch-368
+run_uuid: dbce71d6986c45e9b01c25be6e1132d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729187410736
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/569cd79037f14470a15e8ac3f79720fc/artifacts
+end_time: 1729558449336
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 569cd79037f14470a15e8ac3f79720fc
+run_name: bemused-sponge-461
+run_uuid: 569cd79037f14470a15e8ac3f79720fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729558446174
+status: 3
+tags: []
+user_id: milan

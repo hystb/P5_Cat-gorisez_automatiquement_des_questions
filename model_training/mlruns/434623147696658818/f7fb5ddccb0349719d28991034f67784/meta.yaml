@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/f7fb5ddccb0349719d28991034f67784/artifacts
+end_time: 1729230561374
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: f7fb5ddccb0349719d28991034f67784
+run_name: defiant-sow-409
+run_uuid: f7fb5ddccb0349719d28991034f67784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230561313
+status: 3
+tags: []
+user_id: milan

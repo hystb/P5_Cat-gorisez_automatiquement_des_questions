@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/fe0b9f963e5c401fbf11cb70985bdc3f/artifacts
+end_time: 1729354036576
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: fe0b9f963e5c401fbf11cb70985bdc3f
+run_name: serious-ray-756
+run_uuid: fe0b9f963e5c401fbf11cb70985bdc3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729354028723
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/84c667b5b0214d6f8aa1262ab1972c47/artifacts
+end_time: 1729230360842
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 84c667b5b0214d6f8aa1262ab1972c47
+run_name: unruly-mink-985
+run_uuid: 84c667b5b0214d6f8aa1262ab1972c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230358023
+status: 3
+tags: []
+user_id: milan

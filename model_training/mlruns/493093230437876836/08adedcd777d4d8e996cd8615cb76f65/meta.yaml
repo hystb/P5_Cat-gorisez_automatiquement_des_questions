@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/08adedcd777d4d8e996cd8615cb76f65/artifacts
+end_time: 1729228653819
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 08adedcd777d4d8e996cd8615cb76f65
+run_name: languid-bat-837
+run_uuid: 08adedcd777d4d8e996cd8615cb76f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228651101
+status: 3
+tags: []
+user_id: milan

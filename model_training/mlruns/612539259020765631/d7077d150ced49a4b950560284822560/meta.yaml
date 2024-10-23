@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/d7077d150ced49a4b950560284822560/artifacts
+end_time: 1729278430233
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: d7077d150ced49a4b950560284822560
+run_name: clumsy-panda-240
+run_uuid: d7077d150ced49a4b950560284822560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729278430164
+status: 3
+tags: []
+user_id: milan

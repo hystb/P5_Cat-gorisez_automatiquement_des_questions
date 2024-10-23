@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/858d61c55c61498899e9e6800410c93d/artifacts
+end_time: 1729561336891
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 858d61c55c61498899e9e6800410c93d
+run_name: mercurial-dog-720
+run_uuid: 858d61c55c61498899e9e6800410c93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561333758
+status: 3
+tags: []
+user_id: milan

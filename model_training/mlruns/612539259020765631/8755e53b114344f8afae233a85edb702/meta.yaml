@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/8755e53b114344f8afae233a85edb702/artifacts
+end_time: 1729413360532
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 8755e53b114344f8afae233a85edb702
+run_name: dazzling-horse-664
+run_uuid: 8755e53b114344f8afae233a85edb702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729413360458
+status: 3
+tags: []
+user_id: milan

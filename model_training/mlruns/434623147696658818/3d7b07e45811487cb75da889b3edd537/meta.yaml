@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/3d7b07e45811487cb75da889b3edd537/artifacts
+end_time: 1729230670959
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 3d7b07e45811487cb75da889b3edd537
+run_name: charming-sow-212
+run_uuid: 3d7b07e45811487cb75da889b3edd537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230668220
+status: 3
+tags: []
+user_id: milan

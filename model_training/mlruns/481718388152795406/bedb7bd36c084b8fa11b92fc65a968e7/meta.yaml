@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/bedb7bd36c084b8fa11b92fc65a968e7/artifacts
+end_time: 1729518797961
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: bedb7bd36c084b8fa11b92fc65a968e7
+run_name: sedate-hawk-742
+run_uuid: bedb7bd36c084b8fa11b92fc65a968e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518797882
+status: 3
+tags: []
+user_id: milan

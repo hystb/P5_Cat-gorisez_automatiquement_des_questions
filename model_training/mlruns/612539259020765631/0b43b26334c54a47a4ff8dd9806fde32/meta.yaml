@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/0b43b26334c54a47a4ff8dd9806fde32/artifacts
+end_time: 1729434571394
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 0b43b26334c54a47a4ff8dd9806fde32
+run_name: rumbling-midge-648
+run_uuid: 0b43b26334c54a47a4ff8dd9806fde32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729434571311
+status: 3
+tags: []
+user_id: milan

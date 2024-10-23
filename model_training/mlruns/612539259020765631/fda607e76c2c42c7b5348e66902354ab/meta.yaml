@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/fda607e76c2c42c7b5348e66902354ab/artifacts
+end_time: 1729390728182
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: fda607e76c2c42c7b5348e66902354ab
+run_name: serious-turtle-442
+run_uuid: fda607e76c2c42c7b5348e66902354ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729390728111
+status: 3
+tags: []
+user_id: milan

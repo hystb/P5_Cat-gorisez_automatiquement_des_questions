@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/9d1d54d9412b418d83588d0e448ad805/artifacts
+end_time: 1729604915662
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: 9d1d54d9412b418d83588d0e448ad805
+run_name: magnificent-crow-882
+run_uuid: 9d1d54d9412b418d83588d0e448ad805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729604915570
+status: 3
+tags: []
+user_id: milan

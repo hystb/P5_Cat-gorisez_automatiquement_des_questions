@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/82de24f12a05445fa1796e4aa8d411ed/artifacts
+end_time: 1729560470459
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 82de24f12a05445fa1796e4aa8d411ed
+run_name: bold-mule-12
+run_uuid: 82de24f12a05445fa1796e4aa8d411ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729560467146
+status: 3
+tags: []
+user_id: milan

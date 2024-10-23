@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/892253256424911928/5083aa4b287d446eacff70938a0cb7f7/artifacts
+end_time: 1729564954641
+entry_point_name: ''
+experiment_id: '892253256424911928'
+lifecycle_stage: active
+run_id: 5083aa4b287d446eacff70938a0cb7f7
+run_name: grandiose-wolf-458
+run_uuid: 5083aa4b287d446eacff70938a0cb7f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729564954541
+status: 3
+tags: []
+user_id: milan

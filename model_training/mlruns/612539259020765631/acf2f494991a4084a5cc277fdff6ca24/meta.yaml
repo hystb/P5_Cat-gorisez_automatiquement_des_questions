@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/acf2f494991a4084a5cc277fdff6ca24/artifacts
+end_time: 1729397566307
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: acf2f494991a4084a5cc277fdff6ca24
+run_name: adaptable-colt-577
+run_uuid: acf2f494991a4084a5cc277fdff6ca24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729397566229
+status: 3
+tags: []
+user_id: milan

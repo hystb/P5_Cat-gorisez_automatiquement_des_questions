@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/f82e10e4e98742f1855636d51fcca8ce/artifacts
+end_time: 1729229935451
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: f82e10e4e98742f1855636d51fcca8ce
+run_name: zealous-dog-273
+run_uuid: f82e10e4e98742f1855636d51fcca8ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229935392
+status: 3
+tags: []
+user_id: milan

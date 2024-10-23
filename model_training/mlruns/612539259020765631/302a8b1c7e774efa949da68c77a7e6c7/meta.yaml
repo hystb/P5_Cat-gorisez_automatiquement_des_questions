@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/302a8b1c7e774efa949da68c77a7e6c7/artifacts
+end_time: 1729457042823
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 302a8b1c7e774efa949da68c77a7e6c7
+run_name: skittish-tern-542
+run_uuid: 302a8b1c7e774efa949da68c77a7e6c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729457042727
+status: 3
+tags: []
+user_id: milan

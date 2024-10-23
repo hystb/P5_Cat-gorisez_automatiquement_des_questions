@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/d0875527cf88498f882aae71fce47be4/artifacts
+end_time: 1729192380229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0875527cf88498f882aae71fce47be4
+run_name: stately-sloth-658
+run_uuid: d0875527cf88498f882aae71fce47be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729192380172
+status: 3
+tags: []
+user_id: milan

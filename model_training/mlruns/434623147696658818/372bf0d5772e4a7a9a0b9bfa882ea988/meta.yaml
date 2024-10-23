@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/372bf0d5772e4a7a9a0b9bfa882ea988/artifacts
+end_time: 1729230551724
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 372bf0d5772e4a7a9a0b9bfa882ea988
+run_name: thoughtful-whale-494
+run_uuid: 372bf0d5772e4a7a9a0b9bfa882ea988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230551659
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/4f856172e0a847c7987a8161c6661498/artifacts
+deleted_time: 1729191200071
+end_time: 1729032399937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4f856172e0a847c7987a8161c6661498
+run_name: melodic-eel-134
+run_uuid: 4f856172e0a847c7987a8161c6661498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729032396826
+status: 3
+tags: []
+user_id: milan

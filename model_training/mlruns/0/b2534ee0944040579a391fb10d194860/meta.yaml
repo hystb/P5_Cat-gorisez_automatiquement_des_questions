@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/b2534ee0944040579a391fb10d194860/artifacts
+deleted_time: 1729191200131
+end_time: 1729035023671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b2534ee0944040579a391fb10d194860
+run_name: beautiful-moose-672
+run_uuid: b2534ee0944040579a391fb10d194860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729035016634
+status: 3
+tags: []
+user_id: milan

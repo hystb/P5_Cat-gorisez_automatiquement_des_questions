@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/25b1cafe7b474f868cc63c560fc97b47/artifacts
+end_time: 1729570550634
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: 25b1cafe7b474f868cc63c560fc97b47
+run_name: stylish-croc-636
+run_uuid: 25b1cafe7b474f868cc63c560fc97b47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729570550566
+status: 3
+tags: []
+user_id: milan

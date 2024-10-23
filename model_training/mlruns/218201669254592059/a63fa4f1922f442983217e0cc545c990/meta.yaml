@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/a63fa4f1922f442983217e0cc545c990/artifacts
+end_time: 1729550364767
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: a63fa4f1922f442983217e0cc545c990
+run_name: abundant-ox-103
+run_uuid: a63fa4f1922f442983217e0cc545c990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729550364677
+status: 3
+tags: []
+user_id: milan

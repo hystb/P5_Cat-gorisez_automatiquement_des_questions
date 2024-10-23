@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/f0c0e4729f6649f2a6e6ad697c034cae/artifacts
+end_time: 1729286008012
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: f0c0e4729f6649f2a6e6ad697c034cae
+run_name: casual-chimp-108
+run_uuid: f0c0e4729f6649f2a6e6ad697c034cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729286007947
+status: 3
+tags: []
+user_id: milan

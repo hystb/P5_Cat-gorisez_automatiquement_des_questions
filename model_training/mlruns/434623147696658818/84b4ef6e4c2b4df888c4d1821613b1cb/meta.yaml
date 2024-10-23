@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/84b4ef6e4c2b4df888c4d1821613b1cb/artifacts
+end_time: 1729230469719
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 84b4ef6e4c2b4df888c4d1821613b1cb
+run_name: stately-lark-204
+run_uuid: 84b4ef6e4c2b4df888c4d1821613b1cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230466513
+status: 3
+tags: []
+user_id: milan

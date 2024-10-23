@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/4263975db15043568ff858c3996f296d/artifacts
+end_time: 1729203932840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4263975db15043568ff858c3996f296d
+run_name: bald-ray-995
+run_uuid: 4263975db15043568ff858c3996f296d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729203932781
+status: 3
+tags: []
+user_id: milan

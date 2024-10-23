@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/38e37e02c3ba4aceaca4c6c14264c4ac/artifacts
+end_time: 1729230488089
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 38e37e02c3ba4aceaca4c6c14264c4ac
+run_name: bright-gnu-342
+run_uuid: 38e37e02c3ba4aceaca4c6c14264c4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230485378
+status: 3
+tags: []
+user_id: milan

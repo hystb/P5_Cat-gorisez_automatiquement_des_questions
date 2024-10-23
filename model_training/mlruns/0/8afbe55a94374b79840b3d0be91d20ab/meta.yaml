@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/8afbe55a94374b79840b3d0be91d20ab/artifacts
+deleted_time: 1729191200083
+end_time: 1729032741468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8afbe55a94374b79840b3d0be91d20ab
+run_name: caring-finch-509
+run_uuid: 8afbe55a94374b79840b3d0be91d20ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729032738687
+status: 3
+tags: []
+user_id: milan

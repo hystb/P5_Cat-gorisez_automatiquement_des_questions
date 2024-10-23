@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/5badb497fad242d6bcd46190d5cf1b6b/artifacts
+end_time: 1729431820702
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 5badb497fad242d6bcd46190d5cf1b6b
+run_name: respected-deer-655
+run_uuid: 5badb497fad242d6bcd46190d5cf1b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729431820619
+status: 3
+tags: []
+user_id: milan

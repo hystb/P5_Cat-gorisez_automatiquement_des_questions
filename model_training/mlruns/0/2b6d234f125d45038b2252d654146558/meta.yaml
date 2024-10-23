@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/2b6d234f125d45038b2252d654146558/artifacts
+end_time: 1729050656998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b6d234f125d45038b2252d654146558
+run_name: clumsy-dog-249
+run_uuid: 2b6d234f125d45038b2252d654146558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729050648537
+status: 4
+tags: []
+user_id: milan

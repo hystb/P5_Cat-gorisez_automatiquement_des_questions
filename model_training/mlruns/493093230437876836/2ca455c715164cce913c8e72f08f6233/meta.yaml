@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/2ca455c715164cce913c8e72f08f6233/artifacts
+end_time: 1729227910372
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 2ca455c715164cce913c8e72f08f6233
+run_name: bittersweet-kit-793
+run_uuid: 2ca455c715164cce913c8e72f08f6233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729227906140
+status: 3
+tags: []
+user_id: milan

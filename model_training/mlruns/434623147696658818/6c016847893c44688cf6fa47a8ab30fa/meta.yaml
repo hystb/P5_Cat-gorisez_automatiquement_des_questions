@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/6c016847893c44688cf6fa47a8ab30fa/artifacts
+end_time: 1729229869572
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 6c016847893c44688cf6fa47a8ab30fa
+run_name: agreeable-swan-834
+run_uuid: 6c016847893c44688cf6fa47a8ab30fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229866890
+status: 3
+tags: []
+user_id: milan

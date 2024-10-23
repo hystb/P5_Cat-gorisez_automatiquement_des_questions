@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/ee0347e452b04c6db7889fdcab7d0a5b/artifacts
+end_time: 1729562713701
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: ee0347e452b04c6db7889fdcab7d0a5b
+run_name: lyrical-ant-148
+run_uuid: ee0347e452b04c6db7889fdcab7d0a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729562710534
+status: 3
+tags: []
+user_id: milan

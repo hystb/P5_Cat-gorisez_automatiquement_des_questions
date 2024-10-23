@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/a3e4d2087ca849aeb21e38a1fc934db8/artifacts
+deleted_time: 1729191200051
+end_time: 1729028427508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a3e4d2087ca849aeb21e38a1fc934db8
+run_name: peaceful-owl-51
+run_uuid: a3e4d2087ca849aeb21e38a1fc934db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729028424057
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/36955ad8bffe4aab93033945b831f08a/artifacts
+deleted_time: 1729191200097
+end_time: 1729033513518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 36955ad8bffe4aab93033945b831f08a
+run_name: nebulous-sheep-836
+run_uuid: 36955ad8bffe4aab93033945b831f08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729033510725
+status: 3
+tags: []
+user_id: milan

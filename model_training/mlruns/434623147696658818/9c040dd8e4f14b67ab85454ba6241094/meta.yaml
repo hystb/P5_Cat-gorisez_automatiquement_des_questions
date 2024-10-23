@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/9c040dd8e4f14b67ab85454ba6241094/artifacts
+end_time: 1729230400048
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 9c040dd8e4f14b67ab85454ba6241094
+run_name: useful-roo-255
+run_uuid: 9c040dd8e4f14b67ab85454ba6241094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230397397
+status: 3
+tags: []
+user_id: milan

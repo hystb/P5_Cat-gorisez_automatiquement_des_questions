@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/dcd3a3bcca7248d18f8ad9cc26242ed0/artifacts
+end_time: 1729383717146
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: dcd3a3bcca7248d18f8ad9cc26242ed0
+run_name: respected-gull-62
+run_uuid: dcd3a3bcca7248d18f8ad9cc26242ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729383717071
+status: 3
+tags: []
+user_id: milan

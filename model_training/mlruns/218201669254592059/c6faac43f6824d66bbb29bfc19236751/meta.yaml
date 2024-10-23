@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/c6faac43f6824d66bbb29bfc19236751/artifacts
+end_time: 1729556773162
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: c6faac43f6824d66bbb29bfc19236751
+run_name: adorable-bear-135
+run_uuid: c6faac43f6824d66bbb29bfc19236751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729556770050
+status: 3
+tags: []
+user_id: milan

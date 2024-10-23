@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/e318617713bc4119b1436a89d39ea8c0/artifacts
+end_time: 1729423795120
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: e318617713bc4119b1436a89d39ea8c0
+run_name: placid-whale-449
+run_uuid: e318617713bc4119b1436a89d39ea8c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729423795044
+status: 3
+tags: []
+user_id: milan

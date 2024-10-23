@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/817c5d1b042843c0b3042d3a4c3d1804/artifacts
+end_time: 1729230482052
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 817c5d1b042843c0b3042d3a4c3d1804
+run_name: gregarious-mouse-393
+run_uuid: 817c5d1b042843c0b3042d3a4c3d1804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230479133
+status: 3
+tags: []
+user_id: milan

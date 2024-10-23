@@ -1,0 +1,1 @@
+SGDClassifier(alpha 1, penalty elasticnet, loss perceptron, class_weight None)

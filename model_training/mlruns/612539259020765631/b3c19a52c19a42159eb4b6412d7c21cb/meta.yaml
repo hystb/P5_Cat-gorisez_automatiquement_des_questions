@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/b3c19a52c19a42159eb4b6412d7c21cb/artifacts
+end_time: 1729425321827
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: b3c19a52c19a42159eb4b6412d7c21cb
+run_name: omniscient-mink-416
+run_uuid: b3c19a52c19a42159eb4b6412d7c21cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729425321748
+status: 3
+tags: []
+user_id: milan

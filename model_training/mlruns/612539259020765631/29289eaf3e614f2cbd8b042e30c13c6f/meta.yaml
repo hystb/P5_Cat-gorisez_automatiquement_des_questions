@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/29289eaf3e614f2cbd8b042e30c13c6f/artifacts
+end_time: 1729467492804
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 29289eaf3e614f2cbd8b042e30c13c6f
+run_name: upset-ant-773
+run_uuid: 29289eaf3e614f2cbd8b042e30c13c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729467492705
+status: 3
+tags: []
+user_id: milan

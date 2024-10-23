@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/114e53164bb84ae48ecab227a1985004/artifacts
+end_time: 1729468619799
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 114e53164bb84ae48ecab227a1985004
+run_name: rumbling-grub-102
+run_uuid: 114e53164bb84ae48ecab227a1985004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729468619700
+status: 3
+tags: []
+user_id: milan

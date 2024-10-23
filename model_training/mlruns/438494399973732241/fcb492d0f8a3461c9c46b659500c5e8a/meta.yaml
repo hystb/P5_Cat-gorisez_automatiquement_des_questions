@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/fcb492d0f8a3461c9c46b659500c5e8a/artifacts
+end_time: 1729569725179
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: fcb492d0f8a3461c9c46b659500c5e8a
+run_name: upbeat-robin-991
+run_uuid: fcb492d0f8a3461c9c46b659500c5e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729569725104
+status: 3
+tags: []
+user_id: milan

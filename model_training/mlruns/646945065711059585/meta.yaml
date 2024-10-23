@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/646945065711059585
+creation_time: 1729522910380
+experiment_id: '646945065711059585'
+last_update_time: 1729522910380
+lifecycle_stage: active
+name: try_spacy_stop_words

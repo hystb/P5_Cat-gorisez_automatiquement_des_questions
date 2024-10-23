@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/ee3f816f681a4f9ebb1e1c297ef75cf6/artifacts
+end_time: 1729467230788
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: ee3f816f681a4f9ebb1e1c297ef75cf6
+run_name: wistful-perch-6
+run_uuid: ee3f816f681a4f9ebb1e1c297ef75cf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729467230686
+status: 3
+tags: []
+user_id: milan

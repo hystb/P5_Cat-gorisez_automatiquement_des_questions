@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/906a5e512785403596636e2c82be34c2/artifacts
+deleted_time: 1729191200069
+end_time: 1729032129511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 906a5e512785403596636e2c82be34c2
+run_name: unruly-boar-394
+run_uuid: 906a5e512785403596636e2c82be34c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729032124982
+status: 3
+tags: []
+user_id: milan

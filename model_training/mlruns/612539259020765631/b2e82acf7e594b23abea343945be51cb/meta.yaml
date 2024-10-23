@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/b2e82acf7e594b23abea343945be51cb/artifacts
+end_time: 1729416352320
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: b2e82acf7e594b23abea343945be51cb
+run_name: delicate-fawn-155
+run_uuid: b2e82acf7e594b23abea343945be51cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729416352245
+status: 3
+tags: []
+user_id: milan

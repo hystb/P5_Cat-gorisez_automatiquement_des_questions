@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/149235303490640016/af77318b1bac4fd18495b771b3d5dae4/artifacts
+end_time: 1729224900218
+entry_point_name: ''
+experiment_id: '149235303490640016'
+lifecycle_stage: active
+run_id: af77318b1bac4fd18495b771b3d5dae4
+run_name: nervous-stork-97
+run_uuid: af77318b1bac4fd18495b771b3d5dae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729224892690
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/b546e003b78a4a5894718f7727c2ce02/artifacts
+end_time: 1729402467309
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: b546e003b78a4a5894718f7727c2ce02
+run_name: shivering-eel-710
+run_uuid: b546e003b78a4a5894718f7727c2ce02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729402467223
+status: 3
+tags: []
+user_id: milan

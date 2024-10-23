@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/a485c8cd7ec548e0a4e62d36758251f3/artifacts
+end_time: 1729552996910
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: a485c8cd7ec548e0a4e62d36758251f3
+run_name: delicate-shad-905
+run_uuid: a485c8cd7ec548e0a4e62d36758251f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729552996850
+status: 3
+tags: []
+user_id: milan

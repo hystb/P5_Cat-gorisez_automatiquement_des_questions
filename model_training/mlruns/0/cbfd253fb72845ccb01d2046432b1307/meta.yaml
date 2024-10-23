@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/cbfd253fb72845ccb01d2046432b1307/artifacts
+deleted_time: 1729191200097
+end_time: 1729033853918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cbfd253fb72845ccb01d2046432b1307
+run_name: melodic-squid-210
+run_uuid: cbfd253fb72845ccb01d2046432b1307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729033851049
+status: 3
+tags: []
+user_id: milan

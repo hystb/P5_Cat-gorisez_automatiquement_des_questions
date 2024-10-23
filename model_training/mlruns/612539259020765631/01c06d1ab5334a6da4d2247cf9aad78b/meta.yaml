@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/01c06d1ab5334a6da4d2247cf9aad78b/artifacts
+end_time: 1729317235658
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 01c06d1ab5334a6da4d2247cf9aad78b
+run_name: intrigued-ant-245
+run_uuid: 01c06d1ab5334a6da4d2247cf9aad78b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729317235575
+status: 3
+tags: []
+user_id: milan

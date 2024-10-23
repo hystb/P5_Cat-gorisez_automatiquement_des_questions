@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/e349f4a35d624e5b8d1aa6249c2860b9/artifacts
+end_time: 1729563221894
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: e349f4a35d624e5b8d1aa6249c2860b9
+run_name: enchanting-crab-749
+run_uuid: e349f4a35d624e5b8d1aa6249c2860b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729563218795
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/06d79cc3668848c3a48c9edb8c2f5341/artifacts
+end_time: 1729229881131
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 06d79cc3668848c3a48c9edb8c2f5341
+run_name: treasured-asp-90
+run_uuid: 06d79cc3668848c3a48c9edb8c2f5341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229881074
+status: 3
+tags: []
+user_id: milan

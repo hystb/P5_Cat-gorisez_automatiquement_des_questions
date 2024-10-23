@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/ade43364f5c94b15a86ecf56b8205588/artifacts
+end_time: 1729344794647
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: ade43364f5c94b15a86ecf56b8205588
+run_name: charming-sheep-111
+run_uuid: ade43364f5c94b15a86ecf56b8205588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729344794560
+status: 3
+tags: []
+user_id: milan

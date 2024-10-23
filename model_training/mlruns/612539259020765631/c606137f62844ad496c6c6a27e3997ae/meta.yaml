@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/c606137f62844ad496c6c6a27e3997ae/artifacts
+end_time: 1729401486772
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: c606137f62844ad496c6c6a27e3997ae
+run_name: burly-kite-603
+run_uuid: c606137f62844ad496c6c6a27e3997ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729401486695
+status: 3
+tags: []
+user_id: milan

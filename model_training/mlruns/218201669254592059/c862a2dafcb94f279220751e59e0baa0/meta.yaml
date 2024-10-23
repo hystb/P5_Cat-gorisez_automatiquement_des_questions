@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/c862a2dafcb94f279220751e59e0baa0/artifacts
+end_time: 1729559080639
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: c862a2dafcb94f279220751e59e0baa0
+run_name: zealous-grouse-83
+run_uuid: c862a2dafcb94f279220751e59e0baa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729559077508
+status: 3
+tags: []
+user_id: milan

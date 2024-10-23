@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/92f7d717917e4c29ab3ef312aa8e3cd5/artifacts
+end_time: 1729518676440
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 92f7d717917e4c29ab3ef312aa8e3cd5
+run_name: unleashed-lynx-470
+run_uuid: 92f7d717917e4c29ab3ef312aa8e3cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518676372
+status: 3
+tags: []
+user_id: milan

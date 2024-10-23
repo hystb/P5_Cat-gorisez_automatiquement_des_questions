@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/34121357efb64d2ebb7c475f4badd606/artifacts
+deleted_time: 1729191200106
+end_time: 1729033583837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 34121357efb64d2ebb7c475f4badd606
+run_name: calm-tern-568
+run_uuid: 34121357efb64d2ebb7c475f4badd606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729033580618
+status: 3
+tags: []
+user_id: milan

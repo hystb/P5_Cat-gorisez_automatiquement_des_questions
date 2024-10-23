@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/c3d35a5137b040c8b57c2870916c9093/artifacts
+end_time: 1729518066837
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: c3d35a5137b040c8b57c2870916c9093
+run_name: unruly-yak-510
+run_uuid: c3d35a5137b040c8b57c2870916c9093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518066774
+status: 3
+tags: []
+user_id: milan

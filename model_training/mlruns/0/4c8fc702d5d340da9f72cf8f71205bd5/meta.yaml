@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/4c8fc702d5d340da9f72cf8f71205bd5/artifacts
+deleted_time: 1729191200069
+end_time: 1729032158174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4c8fc702d5d340da9f72cf8f71205bd5
+run_name: capricious-sow-553
+run_uuid: 4c8fc702d5d340da9f72cf8f71205bd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729032155090
+status: 3
+tags: []
+user_id: milan

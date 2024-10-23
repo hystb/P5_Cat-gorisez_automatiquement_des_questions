@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/23b0949dec964a73b654a2f4a955dcd5/artifacts
+end_time: 1729433066886
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 23b0949dec964a73b654a2f4a955dcd5
+run_name: resilient-bird-120
+run_uuid: 23b0949dec964a73b654a2f4a955dcd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433066800
+status: 3
+tags: []
+user_id: milan

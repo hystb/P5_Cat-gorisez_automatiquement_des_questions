@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/f3fc87cf7b1d439693b5a938fbfdcea4/artifacts
+end_time: 1729518697297
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: f3fc87cf7b1d439693b5a938fbfdcea4
+run_name: resilient-gull-405
+run_uuid: f3fc87cf7b1d439693b5a938fbfdcea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518697225
+status: 3
+tags: []
+user_id: milan

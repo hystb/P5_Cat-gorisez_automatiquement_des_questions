@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/ea536c0a581d485da9a6fd06509fadb3/artifacts
+end_time: 1729215640310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea536c0a581d485da9a6fd06509fadb3
+run_name: colorful-shrimp-342
+run_uuid: ea536c0a581d485da9a6fd06509fadb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729215640239
+status: 3
+tags: []
+user_id: milan

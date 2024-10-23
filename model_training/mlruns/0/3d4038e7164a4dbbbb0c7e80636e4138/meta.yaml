@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/3d4038e7164a4dbbbb0c7e80636e4138/artifacts
+end_time: 1729192210540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d4038e7164a4dbbbb0c7e80636e4138
+run_name: angry-dove-819
+run_uuid: 3d4038e7164a4dbbbb0c7e80636e4138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729192210490
+status: 3
+tags: []
+user_id: milan

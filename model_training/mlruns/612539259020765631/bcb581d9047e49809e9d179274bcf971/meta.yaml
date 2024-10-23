@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/bcb581d9047e49809e9d179274bcf971/artifacts
+end_time: 1729438626748
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: bcb581d9047e49809e9d179274bcf971
+run_name: crawling-quail-8
+run_uuid: bcb581d9047e49809e9d179274bcf971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729438626620
+status: 3
+tags: []
+user_id: milan

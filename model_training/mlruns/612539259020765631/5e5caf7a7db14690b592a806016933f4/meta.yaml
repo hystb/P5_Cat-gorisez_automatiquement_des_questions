@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/5e5caf7a7db14690b592a806016933f4/artifacts
+end_time: 1729408057293
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 5e5caf7a7db14690b592a806016933f4
+run_name: unruly-perch-163
+run_uuid: 5e5caf7a7db14690b592a806016933f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729408057221
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/34e1736cffb6499d92439adea6418f67/artifacts
+end_time: 1729555578254
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 34e1736cffb6499d92439adea6418f67
+run_name: sassy-eel-269
+run_uuid: 34e1736cffb6499d92439adea6418f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729555571500
+status: 3
+tags: []
+user_id: milan

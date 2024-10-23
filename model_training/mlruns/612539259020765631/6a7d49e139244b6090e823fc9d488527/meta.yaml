@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/6a7d49e139244b6090e823fc9d488527/artifacts
+end_time: 1729366667845
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 6a7d49e139244b6090e823fc9d488527
+run_name: sincere-kite-414
+run_uuid: 6a7d49e139244b6090e823fc9d488527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729366667766
+status: 3
+tags: []
+user_id: milan

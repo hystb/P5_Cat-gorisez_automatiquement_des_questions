@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/babc3312204746a3a22c7d39b6bd3ecb/artifacts
+end_time: 1729050206562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: babc3312204746a3a22c7d39b6bd3ecb
+run_name: classy-mare-275
+run_uuid: babc3312204746a3a22c7d39b6bd3ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729050201939
+status: 3
+tags: []
+user_id: milan

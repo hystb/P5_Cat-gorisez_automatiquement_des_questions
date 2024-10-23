@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/c819ae1cecd9492787c8b94be5f42dda/artifacts
+end_time: 1729204388313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c819ae1cecd9492787c8b94be5f42dda
+run_name: merciful-boar-838
+run_uuid: c819ae1cecd9492787c8b94be5f42dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729204388257
+status: 3
+tags: []
+user_id: milan

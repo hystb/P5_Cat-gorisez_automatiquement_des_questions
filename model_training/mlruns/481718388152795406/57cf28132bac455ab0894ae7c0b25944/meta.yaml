@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/57cf28132bac455ab0894ae7c0b25944/artifacts
+end_time: 1729518598715
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 57cf28132bac455ab0894ae7c0b25944
+run_name: welcoming-steed-610
+run_uuid: 57cf28132bac455ab0894ae7c0b25944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518595755
+status: 3
+tags: []
+user_id: milan

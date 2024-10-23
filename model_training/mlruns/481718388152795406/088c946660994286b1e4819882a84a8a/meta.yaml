@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/481718388152795406/088c946660994286b1e4819882a84a8a/artifacts
+end_time: 1729518634894
+entry_point_name: ''
+experiment_id: '481718388152795406'
+lifecycle_stage: active
+run_id: 088c946660994286b1e4819882a84a8a
+run_name: dashing-penguin-758
+run_uuid: 088c946660994286b1e4819882a84a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729518632105
+status: 3
+tags: []
+user_id: milan

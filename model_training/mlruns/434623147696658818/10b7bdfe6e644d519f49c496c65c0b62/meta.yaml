@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/10b7bdfe6e644d519f49c496c65c0b62/artifacts
+end_time: 1729229864104
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 10b7bdfe6e644d519f49c496c65c0b62
+run_name: thoughtful-bee-749
+run_uuid: 10b7bdfe6e644d519f49c496c65c0b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729229864047
+status: 3
+tags: []
+user_id: milan

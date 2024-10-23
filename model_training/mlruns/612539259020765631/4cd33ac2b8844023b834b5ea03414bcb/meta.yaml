@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/4cd33ac2b8844023b834b5ea03414bcb/artifacts
+end_time: 1729329891379
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 4cd33ac2b8844023b834b5ea03414bcb
+run_name: luminous-ape-749
+run_uuid: 4cd33ac2b8844023b834b5ea03414bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729329891294
+status: 3
+tags: []
+user_id: milan

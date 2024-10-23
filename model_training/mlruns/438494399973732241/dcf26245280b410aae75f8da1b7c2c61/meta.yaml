@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/dcf26245280b410aae75f8da1b7c2c61/artifacts
+end_time: 1729588761450
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: dcf26245280b410aae75f8da1b7c2c61
+run_name: monumental-ape-828
+run_uuid: dcf26245280b410aae75f8da1b7c2c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729588761389
+status: 3
+tags: []
+user_id: milan

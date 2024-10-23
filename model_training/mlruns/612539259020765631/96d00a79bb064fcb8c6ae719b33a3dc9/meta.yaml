@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/96d00a79bb064fcb8c6ae719b33a3dc9/artifacts
+end_time: 1729280875539
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 96d00a79bb064fcb8c6ae719b33a3dc9
+run_name: thundering-elk-689
+run_uuid: 96d00a79bb064fcb8c6ae719b33a3dc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729280875473
+status: 3
+tags: []
+user_id: milan

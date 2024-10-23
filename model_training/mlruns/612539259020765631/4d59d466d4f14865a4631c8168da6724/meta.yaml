@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/4d59d466d4f14865a4631c8168da6724/artifacts
+end_time: 1729468874162
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 4d59d466d4f14865a4631c8168da6724
+run_name: funny-ant-901
+run_uuid: 4d59d466d4f14865a4631c8168da6724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729468874070
+status: 3
+tags: []
+user_id: milan

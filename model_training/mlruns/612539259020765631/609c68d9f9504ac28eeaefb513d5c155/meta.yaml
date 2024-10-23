@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/609c68d9f9504ac28eeaefb513d5c155/artifacts
+end_time: 1729344125178
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 609c68d9f9504ac28eeaefb513d5c155
+run_name: persistent-ant-927
+run_uuid: 609c68d9f9504ac28eeaefb513d5c155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729344125097
+status: 3
+tags: []
+user_id: milan

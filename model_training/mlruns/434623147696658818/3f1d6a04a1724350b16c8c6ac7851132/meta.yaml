@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/3f1d6a04a1724350b16c8c6ac7851132/artifacts
+end_time: 1729230316526
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 3f1d6a04a1724350b16c8c6ac7851132
+run_name: fearless-mole-296
+run_uuid: 3f1d6a04a1724350b16c8c6ac7851132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230313889
+status: 3
+tags: []
+user_id: milan

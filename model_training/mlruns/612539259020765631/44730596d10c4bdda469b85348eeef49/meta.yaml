@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/44730596d10c4bdda469b85348eeef49/artifacts
+end_time: 1729398212762
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 44730596d10c4bdda469b85348eeef49
+run_name: overjoyed-hog-797
+run_uuid: 44730596d10c4bdda469b85348eeef49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729398212677
+status: 3
+tags: []
+user_id: milan

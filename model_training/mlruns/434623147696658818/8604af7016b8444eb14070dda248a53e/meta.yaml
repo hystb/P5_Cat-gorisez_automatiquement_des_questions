@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/434623147696658818/8604af7016b8444eb14070dda248a53e/artifacts
+end_time: 1729230372336
+entry_point_name: ''
+experiment_id: '434623147696658818'
+lifecycle_stage: active
+run_id: 8604af7016b8444eb14070dda248a53e
+run_name: carefree-hawk-314
+run_uuid: 8604af7016b8444eb14070dda248a53e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729230369482
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/0/2b68771e13c34bf2ae126fd02e7b9fae/artifacts
+end_time: 1729186800018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b68771e13c34bf2ae126fd02e7b9fae
+run_name: charming-fly-947
+run_uuid: 2b68771e13c34bf2ae126fd02e7b9fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729186796582
+status: 3
+tags: []
+user_id: milan

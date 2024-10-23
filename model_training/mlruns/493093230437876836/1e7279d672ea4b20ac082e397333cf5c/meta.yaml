@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/493093230437876836/1e7279d672ea4b20ac082e397333cf5c/artifacts
+end_time: 1729228033713
+entry_point_name: ''
+experiment_id: '493093230437876836'
+lifecycle_stage: active
+run_id: 1e7279d672ea4b20ac082e397333cf5c
+run_name: carefree-mule-325
+run_uuid: 1e7279d672ea4b20ac082e397333cf5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729228031027
+status: 3
+tags: []
+user_id: milan

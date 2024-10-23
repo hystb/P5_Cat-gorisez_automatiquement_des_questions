@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/a6c32e3a6ab24d60a53868b9b5b17744/artifacts
+end_time: 1729432780450
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: a6c32e3a6ab24d60a53868b9b5b17744
+run_name: sedate-doe-647
+run_uuid: a6c32e3a6ab24d60a53868b9b5b17744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432780367
+status: 3
+tags: []
+user_id: milan

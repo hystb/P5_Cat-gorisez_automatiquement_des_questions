@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/438494399973732241/f1af314116284f9db6d84575a78ae851/artifacts
+end_time: 1729609856335
+entry_point_name: ''
+experiment_id: '438494399973732241'
+lifecycle_stage: active
+run_id: f1af314116284f9db6d84575a78ae851
+run_name: gregarious-squid-471
+run_uuid: f1af314116284f9db6d84575a78ae851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609856265
+status: 3
+tags: []
+user_id: milan

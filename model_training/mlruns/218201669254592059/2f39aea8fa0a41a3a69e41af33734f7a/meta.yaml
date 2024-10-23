@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/218201669254592059/2f39aea8fa0a41a3a69e41af33734f7a/artifacts
+end_time: 1729561072758
+entry_point_name: ''
+experiment_id: '218201669254592059'
+lifecycle_stage: active
+run_id: 2f39aea8fa0a41a3a69e41af33734f7a
+run_name: aged-penguin-656
+run_uuid: 2f39aea8fa0a41a3a69e41af33734f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561069403
+status: 3
+tags: []
+user_id: milan

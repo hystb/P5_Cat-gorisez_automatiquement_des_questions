@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/579ceb14b05d4992894fa1470ae5bba0/artifacts
+deleted_time: 1729191200083
+end_time: 1729032960109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 579ceb14b05d4992894fa1470ae5bba0
+run_name: debonair-gull-923
+run_uuid: 579ceb14b05d4992894fa1470ae5bba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729032957350
+status: 3
+tags: []
+user_id: milan

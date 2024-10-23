@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/490dda9e1a4b4967a48086713cbae55d/artifacts
+end_time: 1729334629720
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 490dda9e1a4b4967a48086713cbae55d
+run_name: capable-kite-857
+run_uuid: 490dda9e1a4b4967a48086713cbae55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729334629630
+status: 3
+tags: []
+user_id: milan

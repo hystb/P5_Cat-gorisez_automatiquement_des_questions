@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/1038913c6ae34a58905878c090fd5535/artifacts
+end_time: 1729264737463
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 1038913c6ae34a58905878c090fd5535
+run_name: capricious-hog-253
+run_uuid: 1038913c6ae34a58905878c090fd5535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729264737396
+status: 3
+tags: []
+user_id: milan

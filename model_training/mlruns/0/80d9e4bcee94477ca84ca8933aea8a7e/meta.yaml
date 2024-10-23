@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/mlruns/0/80d9e4bcee94477ca84ca8933aea8a7e/artifacts
+deleted_time: 1729191200092
+end_time: 1729033049881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 80d9e4bcee94477ca84ca8933aea8a7e
+run_name: nervous-crab-20
+run_uuid: 80d9e4bcee94477ca84ca8933aea8a7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729033047208
+status: 3
+tags: []
+user_id: milan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/milan/Documents/oc/p5/model_training/mlruns/612539259020765631/08d3216d47bd4807afb3f433d0d3eb1a/artifacts
+end_time: 1729414196961
+entry_point_name: ''
+experiment_id: '612539259020765631'
+lifecycle_stage: active
+run_id: 08d3216d47bd4807afb3f433d0d3eb1a
+run_name: selective-mole-564
+run_uuid: 08d3216d47bd4807afb3f433d0d3eb1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729414196881
+status: 3
+tags: []
+user_id: milan
