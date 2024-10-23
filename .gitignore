@@ -3,5 +3,5 @@
 !model_training/mlruns/*/*/*/*/*.txt
 !requirements_flask.txt
 !requirements_mlflow.txt
-
-*/__pycache__/
+.pytest_cache/
+__pycache__/
