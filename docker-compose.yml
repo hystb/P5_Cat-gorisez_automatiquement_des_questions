@@ -2,6 +2,7 @@ services:
   flask_app:
     volumes:
       - ./flask:/flask
+      - ./model_training/mlruns:/mlruns
     build:
       context: ./docker  
       dockerfile: flask_Dockerfile
