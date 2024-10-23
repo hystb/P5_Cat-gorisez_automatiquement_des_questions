@@ -4,3 +4,4 @@ mlruns/
 !requirements_flask.txt
 !requirements_mlflow.txt
 *.pkl
+*/__pycache__/
