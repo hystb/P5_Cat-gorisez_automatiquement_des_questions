@@ -1,19 +1,17 @@
 from flask import Flask, jsonify, request
-# import mlflow
+from model import model_api
+import sys
 
 app = Flask(__name__)
 
 
 @app.route('/api/v1/predict', methods=['POST'])
 def predict():
-    # data = request.get_json()
-    # model_uri = "models:/mon_modele/Production"
-    # model = mlflow.pyfunc.load_model(model_uri)
-
-    # prediction = model.predict([data['input']])
-    prediction = ["python", "machine-learning", "data-science"]
-
-    return jsonify({'tags': prediction})
+    data = request.get_json()
+    title = data['question']
+    response = model_api.predict(title)
+    print(f'Tags prédits: {response}', file=sys.stderr)
+    return jsonify(response)
 
 
 @app.route('/api/v1/validate', methods=['POST'])
