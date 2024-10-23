@@ -1,7 +1,7 @@
 *.csv
-mlruns/
 *.txt
+!model_training/mlruns/*/*/*/*/*.txt
 !requirements_flask.txt
 !requirements_mlflow.txt
-*.pkl
+
 */__pycache__/
