@@ -74,5 +74,6 @@ class FlaskAppTestCase(unittest.TestCase):
         self.assertIn('tags', response.json)
         self.assertTrue(isinstance(response.json['tags'], list))
 
+
 if __name__ == '__main__':
     unittest.main()
