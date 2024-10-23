@@ -6,24 +6,31 @@ services:
     build:
       context: ./docker  
       dockerfile: flask_Dockerfile
+    container_name: flask_app
     depends_on:
       - mlflow
     ports:
       - "5001:5001"
+    networks:
+      - my_network
 
   mlflow:
     restart: always
     build:
       context: ./docker
       dockerfile: mlflow_Dockerfile
+    container_name: mlflow
     ports:
       - "5000:5000"
     volumes:
       - ./mlflow:/data 
       - ./model_training/mlruns:/mlruns
+    networks:
+      - my_network
   
   nginx:
     image: nginx:1.19
+    container_name: nginx
     ports:
       - "80:80"
     volumes:
@@ -32,5 +39,10 @@ services:
     depends_on:
       - flask_app
       - mlflow
+    networks:
+      - my_network
 
+networks:
+  my_network:
+    driver: bridge
 

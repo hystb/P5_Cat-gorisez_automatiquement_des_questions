@@ -1,16 +1,16 @@
 from flask import Flask, jsonify, request
 from model import model_api
-import sys
+from flask_cors import CORS
+
 
 app = Flask(__name__)
-
+CORS(app)
 
 @app.route('/api/v1/predict', methods=['POST'])
 def predict():
     data = request.get_json()
     title = data['question']
     response = model_api.predict(title)
-    print(f'Tags prédits: {response}', file=sys.stderr)
     return jsonify(response)
 
 

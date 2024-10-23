@@ -1,3 +1,5 @@
+const baseUrl = `${window.location.protocol}//${window.location.host}`;
+
 document.getElementById("question").addEventListener("input", function() {
 	console.log(this.scrollHeight);
     this.style.height = "auto";
@@ -6,7 +8,7 @@ document.getElementById("question").addEventListener("input", function() {
 
 function getTagSuggestions() {
     const question = document.getElementById('question').value;
-    fetch('http://localhost/flask/api/v1/predict', {
+    fetch(`${baseUrl}/flask/api/v1/predict`, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -44,7 +46,7 @@ function validateTags() {
         selectedTags.push(tag.textContent);
     });
 
-    fetch('http://localhost/flask/api/v1/validate', {
+    fetch(`${baseUrl}/flask/api/v1/validate`, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
