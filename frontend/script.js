@@ -18,10 +18,10 @@ function getTagSuggestions() {
         const tagSuggestions = document.getElementById('tag-suggestions');
         tagSuggestions.innerHTML = '';
 
-        data.tags.forEach(tag => {
+        data.forEach(tag => {
             const tagElement = document.createElement('div');
             tagElement.classList.add('tag');
-            tagElement.textContent = tag;
+            tagElement.textContent = tag.tag;
             tagElement.onclick = () => selectTag(tagElement);
             tagSuggestions.appendChild(tagElement);
         });
