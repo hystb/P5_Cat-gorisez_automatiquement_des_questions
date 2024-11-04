@@ -11,10 +11,10 @@ class FlaskAppTestCase(unittest.TestCase):
     def test_home_route(self):
         response = self.client.get('/')
         self.assertEqual(response.status_code, 200)
-        self.assertIn(b'Expected content', response.data)  
+        self.assertIn(b'Expected content', response.data)
 
     def test_prediction_route(self):
-        response = self.client.post('/predict', 
+        response = self.client.post('/predict',
                                     json={"question": "Sample question"})
         self.assertEqual(response.status_code, 200)
         self.assertIn('tags', response.get_json())
