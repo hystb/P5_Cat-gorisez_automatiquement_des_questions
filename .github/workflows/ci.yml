@@ -34,7 +34,7 @@ jobs:
 
       - name: Run Unit Tests
         run: |
-          PYTHONPATH=./flask python -m unittest flask/tests.py
+          PYTHONPATH=./flask_app python -m unittest flask_app/tests.py
 
   # docker_compose:
   #   name: Build, Test Docker Compose Services
