@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from model import model_api
+from flask_app.model import model_api
 from flask_cors import CORS
 
 
