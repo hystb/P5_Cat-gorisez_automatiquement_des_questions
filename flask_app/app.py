@@ -6,6 +6,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
+
 @app.route('/api/v1/predict', methods=['POST'])
 def predict():
     data = request.get_json()
