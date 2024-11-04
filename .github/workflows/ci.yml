@@ -47,7 +47,7 @@ jobs:
       
       - name: Unit Test Docker Compose Services
         run: |
-          docker exec flask_app python -m unittest flask_app/tests.py
+          docker exec -it flask_app flask_app/test.sh
           
       - name: Check Docker Compose status
         run: |
