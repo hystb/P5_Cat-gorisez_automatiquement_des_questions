@@ -15,6 +15,11 @@ def predict():
     return jsonify(response)
 
 
+@app.route('/health')
+def health():
+    return jsonify({"status": "healthy"}), 200
+
+
 @app.route('/api/v1/validate', methods=['POST'])
 def validate():
     data = request.get_json()

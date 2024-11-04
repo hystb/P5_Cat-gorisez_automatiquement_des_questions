@@ -5,4 +5,4 @@ COPY ./requirements_flask.txt /requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 5001
 
-CMD ["python", "flask/app.py"]
+CMD ["python", "flask_app/app.py"]

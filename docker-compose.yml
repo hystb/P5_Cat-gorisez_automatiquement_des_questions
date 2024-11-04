@@ -1,18 +1,24 @@
 services:
   flask_app:
     volumes:
-      - ./flask:/flask
+      - ./flask_app:/flask_app
       - ./model_training/mlruns:/mlruns
     build:
       context: ./docker  
       dockerfile: flask_Dockerfile
     container_name: flask_app
     depends_on:
-      - mlflow
+      mlflow:
+        condition: service_healthy
     ports:
       - "5001:5001"
     networks:
       - my_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 2
 
   mlflow:
     restart: always
@@ -27,6 +33,11 @@ services:
       - ./model_training/mlruns:/mlruns
     networks:
       - my_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 2
   
   nginx:
     image: nginx:1.19
@@ -37,12 +48,15 @@ services:
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf
       - ./frontend:/usr/share/nginx/frontend
     depends_on:
-      - flask_app
-      - mlflow
+      flask_app:
+        condition: service_healthy
+      mlflow:
+        condition: service_healthy
     networks:
       - my_network
 
 networks:
   my_network:
     driver: bridge
+
 
