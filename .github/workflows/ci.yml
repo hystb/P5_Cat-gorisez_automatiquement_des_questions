@@ -34,6 +34,7 @@ jobs:
 
       - name: Run Unit Tests
         run: |
+          pip install -r docker/requirements_flask.txt
           PYTHONPATH=./flask_app python -m unittest flask_app/tests.py
 
   # docker_compose:
