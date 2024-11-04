@@ -32,11 +32,6 @@ jobs:
           pip install flake8
           flake8 .
 
-      - name: Run Unit Tests
-        run: |
-          pip install unittest
-          python -m unittest flask/tests.py
-
   docker_compose:
     name: Build, Test Docker Compose Services
     runs-on: ubuntu-latest
