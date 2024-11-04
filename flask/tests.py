@@ -1,6 +1,6 @@
 import unittest
-from flask import Flask
 from app import app
+
 
 class FlaskAppTestCase(unittest.TestCase):
     @classmethod
@@ -14,9 +14,11 @@ class FlaskAppTestCase(unittest.TestCase):
         self.assertIn(b'Expected content', response.data)  
 
     def test_prediction_route(self):
-        response = self.client.post('/predict', json={"question": "Sample question"})
+        response = self.client.post('/predict', 
+                                    json={"question": "Sample question"})
         self.assertEqual(response.status_code, 200)
-        self.assertIn('tags', response.get_json()) 
+        self.assertIn('tags', response.get_json())
+
 
 if __name__ == "__main__":
     unittest.main()
