@@ -19,6 +19,12 @@ class FlaskAppTestCase(unittest.TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertIn('tag', response.get_json()[0])
 
+    def test_validate_route(self):
+        response = self.client.post('/api/v1/validate',
+                                    json={"tags": "test"})
+        self.assertEqual(response.status_code, 200)
+        self.assertIn('success', response.get_json()[0]['status'])
+
 
 if __name__ == "__main__":
     unittest.main()
