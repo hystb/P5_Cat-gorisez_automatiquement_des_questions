@@ -23,7 +23,7 @@ class FlaskAppTestCase(unittest.TestCase):
         response = self.client.post('/api/v1/validate',
                                     json={"tags": "test"})
         self.assertEqual(response.status_code, 200)
-        self.assertIn('success', response.get_json()[0]['status'])
+        self.assertIn('success', response.get_json()['status'])
 
 
 if __name__ == "__main__":
