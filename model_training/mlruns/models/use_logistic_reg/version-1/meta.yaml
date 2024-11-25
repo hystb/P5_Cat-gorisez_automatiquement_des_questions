@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729615735866
+current_stage: Production
+description: ''
+last_updated_timestamp: 1729616886806
+name: use_logistic_reg
+run_id: 7bd8be82d2d64c5ea83c63f87f5ba245
+run_link: ''
+source: file:/mlruns/438494399973732241/7bd8be82d2d64c5ea83c63f87f5ba245/artifacts/model
+status: READY
+status_message: null
+storage_location: file:/mlruns/438494399973732241/7bd8be82d2d64c5ea83c63f87f5ba245/artifacts/model
+user_id: null
+version: 1
